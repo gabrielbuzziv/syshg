@@ -1,0 +1,1257 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.sistema.hgdiesel.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2695                
+POS_VISITOR 22582               
+POS_DAY 24317               
+POS_DOMAIN 3495                
+POS_LOGIN 3835                
+POS_ROBOT 3990                
+POS_WORMS 4418                
+POS_EMAILSENDER 4549                
+POS_EMAILRECEIVER 4692                
+POS_SESSION 25048               
+POS_SIDER 25258               
+POS_FILETYPES 4827                
+POS_DOWNLOADS 5028                
+POS_OS 5076                
+POS_BROWSER 5211                
+POS_SCREENSIZE 5592                
+POS_UNKNOWNREFERER 5666                
+POS_UNKNOWNREFERERBROWSER 6008                
+POS_ORIGIN 6158                
+POS_SEREFERRALS 6298                
+POS_PAGEREFS 6470                
+POS_SEARCHWORDS 6618                
+POS_KEYWORDS 6770                
+POS_MISC 2358                
+POS_ERRORS 6829                
+POS_CLUSTER 3691                
+POS_SIDER_404 7015                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501033455 8702 3252762 14013146292473
+FirstTime 20230401001844
+LastTime 20230430223441
+LastUpdate 20230501044107 8702 8687 13 1 0
+TotalVisits 137                 
+TotalUnique 42                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 42                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 37 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 60 61 221166 9 13 15633
+1 153 155 1174981 10 14 28779
+2 1 1 4117 5 8 15446
+3 21 26 897153 270 745 2186362
+4 2 2 8247 4 9 5326
+5 3 3 13682 14 23 542835
+6 1 1 4097 3 3 10937
+7 1 1 4110 8 11 399821
+8 2 2 9490 4 8 5863
+9 6 9 485778 9 18 455017
+10 378 378 1329235 30 47 69853
+11 438 450 3627480 55 78 196410
+12 564 565 2070439 60 80 1604692
+13 739 748 3620454 72 89 604004
+14 981 986 4178709 106 141 448844
+15 56 56 157118 10 15 26651
+16 214 214 834704 24 38 20565
+17 694 699 3619594 82 106 159511
+18 1179 1185 4253331 78 105 103422
+19 714 717 3052735 91 119 1049344
+20 394 399 2572961 64 83 511883
+21 20 23 544278 4 5 11219
+22 37 37 105227 10 21 779661
+23 1 1 6803 4 4 20929
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+br 6527 6570 28951999
+id 82 94 2369062
+us 34 37 738849
+au 7 9 686654
+ro 3 3 18713
+be 3 3 16029
+kr 1 1 0
+fr 1 1 10473
+de 1 1 4110
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 38 2335274 20230426125014 5
+Applebot/ 19 1409037 20230430091706 3
+no_user_agent 18 181457 20230429232948 0
+bingbot/ 7 1133128 20230412122054 1
+bot[\s_+:,\.\;\/\\-] 4 8277 20230406185236 2
+oBot/ 3 438345 20230420093300 1
+YandexBot/ 2 4188 20230426025109 1
+unknown 1 55 20230418033808 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+map 2 168351 0 0
+css 14 840420 0 0
+png 28 150116 0 0
+html 108 825310 0 0
+js 18 2373362 0 0
+woff2 11 790856 0 0
+Unknown 6538 27647474 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+macosx 4 4
+winxp 1 1
+Unknown 33 33
+win10 6679 6619
+linux 1 1
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome111.0.0.0 3099 3078
+chrome96.0.4664.110 2 2
+firefox109.0 6 3
+mozilla 26 26
+firefox112.0 6 3
+chrome87.0.4280.88 2 2
+firefox111.0 64 60
+chrome99.0.4859.172 1 1
+chrome34.0.1847.116 1 1
+chrome64.0.3282.186 1 1
+chrome112.0.0.0 3014 2994
+firefox58.0 1 1
+chrome84.0.4147.105 7 5
+chrome109.0.0.0 481 474
+Unknown 7 7
+firefox56.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230426052742
+Go-http-client/2.0 20230412220159
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230430223441
+Go-http-client/1.1 20230418031204
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/2.0 20230412220159
+Go-http-client/1.1 20230418031204
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 207 215
+From1 0 0
+From2 3 3
+From3 0 0
+From4 6449 6501
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 1 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 1 5233
+400 1 41996
+401 1 23
+302 612 247752
+499 3 0
+500 12 726683
+405 1 21555
+301 75 18838
+404 803 2701166
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 655
+/WWW.tgz 1 -
+/admin/pma 1 http://sistema.hgdiesel.com.br/admin/pma/
+/backups.bz 1 -
+/phpMyAdmin-3.3.4-rc1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.3.4-rc1/
+/2.tar 1 -
+/bk.tar.gz 1 -
+/_backup.gz 1 -
+/2023.bak 1 -
+/my.tar 1 -
+/2021.zip 1 -
+/2020.bz 1 -
+/public_html.rar 1 -
+/sistemabackup.rar 1 -
+/wwwroot.tar 1 -
+/Code.tar.gz 1 -
+//info.php 1 -
+/sistema.hgdiesel.com.br.7z 1 -
+/httpd.rar 1 -
+/sistema.hgdiesel.com.br3.tgz 1 -
+/2022.tgz 1 -
+/backup.rar 1 -
+/full_backup.gz 1 -
+/siste_backup.tar 1 -
+/sites.bz 1 -
+/style.php 1 -
+/a.gz 1 -
+/1.tar 1 -
+/phpmyadmin3 1 http://sistema.hgdiesel.com.br/phpmyadmin3/
+/sistema.hgdiesel.com.br%20%281%29.tgz 1 -
+/wwwroot.rar 1 -
+/php.rar 1 -
+/test.tar 1 -
+/full_backup.zip 1 -
+/wp.gz 1 -
+/new.tar 1 -
+/phpMyAdmin-2.11.10 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.10/
+/code.bak 1 -
+/wp.tar 1 -
+/master.gz 1 -
+/123456.7z 1 -
+/public.bz 1 -
+/site.tar 1 -
+/web.tar.gz 1 -
+/_phpMyAdmin 1 http://sistema.hgdiesel.com.br/_phpMyAdmin/
+/httpd.tar.gz 1 -
+/httpd.tar 1 -
+/cgi-bin.zip 1 -
+/html.zip 1 -
+/new_website.tar.gz 1 -
+/Adminer.php 1 -
+/website.gz 1 -
+/sistema.hgdiesel.com.br_backup.tar 1 -
+/siste.tar 1 -
+/wp-admin.bak 1 -
+/1.gz 1 -
+/sistema.hgdiesel.com.br_backup.tar.gz 1 -
+/blog.rar 1 -
+/theme.tar.gz 1 -
+/cgi-bin.bz 1 -
+/bak.tgz 1 -
+/httpdocs.7z 1 -
+/sistema.hgdiesel.com.brbackup.tar.gz 1 -
+/data.bak 1 -
+/sistemabackup.tar 1 -
+/home.gz 1 -
+/sistebackup.tar.gz 1 -
+/hdocs.tar 1 -
+/2020.7z 1 -
+/website.zip 1 -
+/phpMyAdmin-2.11.2 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.2/
+/WWW.bz 1 -
+/backup.bak 1 -
+/wp.bak 1 -
+/home.zip 1 -
+/wwwroot.tar.gz 1 -
+/code.tar.gz 1 -
+/test.zip 1 -
+/wp-content.gz 1 -
+/sistebackup.gz 1 -
+/40444444444444444444444444.zip 1 -
+/siste_backup.zip 1 -
+/web.bz 1 -
+/adminer-4.7.1.php 1 -
+/unzipper.php 1 -
+/2023.tar 1 -
+/_backup.tgz 1 -
+/a/pma 1 http://sistema.hgdiesel.com.br/a/pma/
+/backup 1 -
+/a.bak 1 -
+/2023.rar 1 -
+/sistema.hgdiesel.com.br%20%282%29.zip 1 -
+/rar.rar 1 -
+/wordpress.tar.gz 1 -
+/WWW.7z 1 -
+/123.rar 1 -
+/wp-admin.7z 1 -
+/code.gz 1 -
+/code.zip 1 -
+/sistema.hgdiesel.com.br1.gz 1 -
+/public.bak 1 -
+/httpd.bz 1 -
+/hdocs.bz 1 -
+/htdocs.rar 1 -
+/siste_backup.tar.gz 1 -
+/website.rar 1 -
+/WWW.rar 1 -
+/backup.zip 2 -
+/wp-config.php-original 1 -
+/sistema.hgdiesel.com.br.rar 1 -
+/Web.tgz 1 -
+/_pma 1 http://sistema.hgdiesel.com.br/_pma/
+/0.zip 1 -
+/blog.tgz 1 -
+/Web.rar 1 -
+/123456.tgz 1 -
+/phpMyAdmin-3.3.0 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.3.0/
+/var/pma 1 http://sistema.hgdiesel.com.br/var/pma/
+/phpmyadmin4 1 http://sistema.hgdiesel.com.br/phpmyadmin4/
+/adminer-4.7.4.php 1 -
+/blog.tar.gz 1 -
+/old_website.zip 1 -
+/theme.zip 1 -
+/sistema.hgdiesel.com.br%20%283%29.tar.gz 1 -
+/Code.gz 1 -
+/2022.gz 1 -
+/master.tgz 1 -
+/master.tar.gz 1 -
+/sistema.hgdiesel.com.br1.tar 1 -
+/backups.zip 1 -
+/data.tar.gz 1 -
+/old.tgz 1 -
+/wp-content.zip 1 -
+/app.7z 1 -
+/new.rar 1 -
+/phpMyAdmin-2.5.1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.5.1/
+/123.bz 1 -
+/Pma 1 http://sistema.hgdiesel.com.br/Pma/
+/Web.tar 1 -
+/phpmyadmin2022 1 http://sistema.hgdiesel.com.br/phpmyadmin2022/
+/phpMyAdmin-2.10.0 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.10.0/
+/sistema_hgdiesel_com_br.rar 1 -
+/2022.tar.gz 1 -
+/.gz 1 -
+//phpinfo.php 1 -
+/bak.gz 1 -
+/site.tgz 1 -
+/app.tar.gz 1 -
+/1.zip 1 -
+/wordpress.gz 1 -
+/wp-content.tgz 1 -
+/phpMyAdmin-2.6.2-rc1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.6.2-rc1/
+/a.tar 1 -
+/0.gz 1 -
+/home.tgz 1 -
+/wp-config.php-backup 1 -
+/sistema.hgdiesel.com.br.backup.zip 1 -
+/backups.7z 1 -
+/sistema.hgdiesel.com.br%20%281%29.zip 1 -
+/sistema.hgdiesel.com.br_backup.tgz 1 -
+/site.zip 1 -
+/httpd.gz 1 -
+/Archive.tar 1 -
+/phpmyadm 1 http://sistema.hgdiesel.com.br/phpmyadm/
+/phpMyAdmin-2.11.4 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.4/
+/hdocs.7z 1 -
+/app.rar 1 -
+/sistema.hgdiesel.com.br%20%281%29.gz 1 -
+/Web.tar.gz 1 -
+/full_backup.tgz 1 -
+/phpmyadmin2023 1 http://sistema.hgdiesel.com.br/phpmyadmin2023/
+/phpMyAdmin-2.6.3-pl1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.6.3-pl1/
+/sistema.hgdiesel.com.br%20%283%29.tgz 1 -
+/html.tar 1 -
+//phpinfo 1 -
+/backups.rar 1 -
+/var/phpMyAdmin 1 http://sistema.hgdiesel.com.br/var/phpMyAdmin/
+/Web.gz 1 -
+/sistema.hgdiesel.com.br%20%282%29.tar 1 -
+/asd.rar 1 -
+/site.gz 1 -
+/old_website.tar 1 -
+/cgi-bin.rar 1 -
+/2.tgz 1 -
+/sistema.hgdiesel.com.br3.tar 1 -
+/wp-config.php.old 1 -
+/html.rar 1 -
+/master.bak 1 -
+/wwwroot.bak 1 -
+/sistema-backup.zip 1 -
+/2.rar 1 -
+/Code.tgz 1 -
+/home.tar.gz 1 -
+/wwwroot.bz 1 -
+/adminer-4.6.0.php 1 -
+/_backup.zip 1 -
+/phpMyAdmi 1 http://sistema.hgdiesel.com.br/phpMyAdmi/
+/sistema.backup.tgz 1 -
+/app.tgz 1 -
+/.env.bak 1 -
+/sistema.hgdiesel.com.br_backup.gz 1 -
+/sistema.hgdiesel.com.br%20%283%29.gz 1 -
+/sites.gz 1 -
+/1.bak 1 -
+/backup.tar 2 -
+/phpmyadmin2017 1 http://sistema.hgdiesel.com.br/phpmyadmin2017/
+/DB.php 1 -
+/sistema.hgdiesel.com.br.tar 1 -
+/sistema_hgdiesel_com_br.tgz 1 -
+/sistema.hgdiesel.com.br.backup.tar.gz 1 -
+/2019.zip 1 -
+/2022.rar 1 -
+/sites.zip 1 -
+/sistema.7z 1 -
+/a.7z 1 -
+/WWW.gz 1 -
+/123456.tar.gz 1 -
+/sistema.gz 1 -
+/123.tgz 1 -
+/WWW.zip 1 -
+/my.7z 1 -
+/phpMyAdmin-2 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2/
+/phpMyAdmin-3.2.4 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.2.4/
+/static/admin/javascript/hetong.js 3 -
+/mysql-admin 1 http://sistema.hgdiesel.com.br/mysql-admin/
+/db.php 1 -
+/htdocs.gz 1 -
+/blog.7z 1 -
+/2023.tgz 1 -
+/master.tar 1 -
+/phpMyAdmin-2.2.3 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.2.3/
+/hdocs.tar.gz 1 -
+/aa.zip 1 -
+/cgi-bin.bak 1 -
+/phpmyadmin2021 1 http://sistema.hgdiesel.com.br/phpmyadmin2021/
+/website.bak 1 -
+/public.rar 1 -
+/cgi-bin.tar 1 -
+/sistema.hgdiesel.com.br.tgz 1 -
+/sistema.hgdiesel.com.br.bak 1 -
+/1234.bak 1 -
+/backups.gz 1 -
+/sites.tgz 1 -
+/public_html.zip 2 -
+/wwwroot.7z 1 -
+/phpmyadmin 3 http://sistema.hgdiesel.com.br/phpmyadmin/
+/new.gz 1 -
+/app.bz 1 -
+/pack.tgz 1 -
+/public_html.gz 1 -
+/adminer-4.7.2.php 1 -
+/site.tar.gz 1 -
+/admin.zip 1 -
+/sistema.hgdiesel.com.br.tar.gz 1 -
+/sistema.bak 1 -
+/siste_backup.tgz 1 -
+/old.zip 1 -
+/phpMyAdmin-2.11.3 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.3/
+/hdocs.zip 1 -
+/bk.tar 1 -
+/bak.tar.gz 1 -
+/Archive.gz 1 -
+/123.zip 1 -
+/bak.tar 1 -
+/sistema.hgdiesel.com.br%20%281%29.tar.gz 1 -
+/sistema.hgdiesel.com.br1.tgz 1 -
+/db 1 http://sistema.hgdiesel.com.br/db/
+/sistema.backup.rar 1 -
+/sistema.hgdiesel.com.brbackup.zip 1 -
+/sistema.hgdiesel.com.br3.gz 1 -
+/aa.tar.gz 1 -
+/master.zip 1 -
+/mysqladmin 1 http://sistema.hgdiesel.com.br/mysqladmin/
+/httpdocs.gz 1 -
+/file.zip 1 -
+/.tgz 1 -
+/siste.zip 1 -
+/wwwroot.gz 1 -
+/1234.rar 1 -
+/htdocs.tgz 1 -
+/htdocs.bak 1 -
+/cgi-bin.7z 1 -
+/sistema.hgdiesel.com.br2.zip 1 -
+/wordpress.zip 1 -
+/public.tar.gz 1 -
+/sistebackup.tar 1 -
+/new_website.tgz 1 -
+/httpdocs.bak 1 -
+/wp-includes.bak 1 -
+/adminer-4.7.7.php 1 -
+/adminer-4.4.0.php 1 -
+/phpmyadmin2019 1 http://sistema.hgdiesel.com.br/phpmyadmin2019/
+/123456.bak 1 -
+/app-ads.txt 1 -
+/adminer-4.3.1.php 1 -
+/httpdocs.bz 1 -
+/php.tgz 1 -
+/pma 2 http://sistema.hgdiesel.com.br/pma/
+/test.gz 1 -
+/home.bak 1 -
+/sistema.hgdiesel.com.br_backup.zip 1 -
+/cgi-bin.tar.gz 1 -
+/old.tar.gz 1 -
+/sistema.hgdiesel.com.br.backup.tar 1 -
+/phpmyadmin2020 1 http://sistema.hgdiesel.com.br/phpmyadmin2020/
+/old_website.tgz 1 -
+/site.7z 1 -
+/myadmin 1 http://sistema.hgdiesel.com.br/myadmin/
+/bak.bak 1 -
+/phpMyAdmin-3.1.0 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.1.0/
+/asd.zip 1 -
+/my.gz 1 -
+/blog.bz 1 -
+/web.gz 1 -
+/public.gz 1 -
+/sistema.rar 1 -
+/var/phpmyadmin 1 http://sistema.hgdiesel.com.br/var/phpmyadmin/
+/old.gz 1 -
+/123.tar 1 -
+/123.7z 1 -
+/wp-includes.tar.gz 1 -
+/wp-content.rar 1 -
+/sistebackup.tgz 1 -
+/dbadmin 2 http://sistema.hgdiesel.com.br/dbadmin/
+/siste.tar.gz 1 -
+/aa.gz 1 -
+/blog.gz 1 -
+/phpMyAdmin-2.11.8.1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.8.1/
+/2023.tar.gz 1 -
+/wordpress.tar 1 -
+/app.zip 1 -
+/aa.rar 1 -
+/adminmysql 1 http://sistema.hgdiesel.com.br/adminmysql/
+/wp-admin.tar.gz 1 -
+/pack.tar 1 -
+/public_html.tgz 1 -
+/httpdocs.tgz 1 -
+/phpMyAdmin-3.2.3 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.2.3/
+/fullbackup.tgz 1 -
+/phpMyAdmin-2.10.2 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.10.2/
+/sistema.hgdiesel.com.brbackup.tgz 1 -
+/home.rar 1 -
+/old.tar 1 -
+/siste.tgz 1 -
+/data.tar 1 -
+/wp-includes.tar 1 -
+/sistema_hgdiesel_com_br.7z 1 -
+/wp-includes.zip 1 -
+/0.tar 1 -
+/wp-admin.gz 1 -
+/public.tgz 1 -
+/a.rar 1 -
+/0.tgz 1 -
+/backups.tar 1 -
+/adminer-4.6.1.php 1 -
+/public_html.tar.gz 1 -
+/sistema-backup.rar 1 -
+/bk.rar 1 -
+/sistema.hgdiesel.com.br2.tgz 1 -
+/test.bak 1 -
+/sistema.hgdiesel.com.br.gz 1 -
+/admin.tgz 1 -
+/aa.tar 1 -
+/my.tgz 1 -
+/PMA 2 http://sistema.hgdiesel.com.br/PMA/
+/bk.zip 1 -
+/bk.tgz 1 -
+/fullbackup.gz 1 -
+/mysql 1 http://sistema.hgdiesel.com.br/mysql/
+/.env.swap 1 -
+/backups.tgz 1 -
+/wp-config.php.bak 1 -
+/sistema.hgdiesel.com.br.zip 1 -
+/sistema.hgdiesel.com.br2.tar.gz 1 -
+/2023.gz 1 -
+/public_html.bz 1 -
+/public.tar 1 -
+/aa.tgz 1 -
+/new.bak 1 -
+/sistema.hgdiesel.com.br.bz 1 -
+/1234.tar.gz 1 -
+/webphpMyAdmin 1 http://sistema.hgdiesel.com.br/webphpMyAdmin/
+/sistebackup.zip 1 -
+/zip.zip 1 -
+/ntunnel_mysql.php 1 -
+/1234.tar 1 -
+/test.rar 1 -
+/blog.bak 1 -
+/php.gz 1 -
+/php.tar.gz 1 -
+/sites.tar.gz 1 -
+/sistemabackup.gz 1 -
+/fullbackup.zip 1 -
+/adminer-4.2.0.php 1 -
+/123.gz 1 -
+/WWW.tar.gz 1 -
+/php.zip 1 -
+/phpMyAdmin-3.3.2-rc1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.3.2-rc1/
+/sistema.hgdiesel.com.br3.zip 1 -
+/ads.txt 1 -
+/new_website.tar 1 -
+/adminer-4.1.0.php 1 -
+/httpdocs.rar 1 -
+/2023.zip 1 -
+/app.gz 1 -
+/adminer-4.5.0.php 1 -
+/2022.7z 1 -
+/aa.7z 1 -
+/bak.zip 1 -
+/phpMyAdmin-3.3.2 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.3.2/
+/adminer-4.2.1.php 1 -
+/my.bak 1 -
+/public_html.tar 1 -
+/wp.tgz 1 -
+/website.tar 1 -
+/wp-content.bak 1 -
+/old_website.tar.gz 1 -
+/wp.tar.gz 1 -
+/wp.zip 1 -
+/httpd.zip 1 -
+/hdocs.gz 1 -
+/wp-includes.bz 1 -
+/phpMyAdmin-3.0.1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.0.1/
+/2023.bz 1 -
+/sistema.backup.zip 1 -
+/sistema.hgdiesel.com.br.backup.tgz 1 -
+/admin.tar.gz 1 -
+/phpMyAdmin-2.10.1 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.10.1/
+/cgi-bin.tgz 1 -
+/bk.bak 1 -
+/1.tgz 1 -
+/wp-admin.bz 1 -
+/phpMyAdmin-2.5.4 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.5.4/
+/sistemabackup.tar.gz 1 -
+/phpMyAdmin-2.11.5 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.5/
+/code.tgz 1 -
+/wp-includes.tgz 1 -
+/adminer-4.3.0.php 1 -
+/sistema.backup.tar 1 -
+/wp-includes.gz 1 -
+/my.tar.gz 1 -
+/public.zip 1 -
+/site.rar 1 -
+/2020.zip 1 -
+/app.tar 1 -
+/phpmyadmin-old 1 http://sistema.hgdiesel.com.br/phpmyadmin-old/
+/phpMyAdmin-3.2.2 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.2.2/
+/hdocs.rar 1 -
+/sistema.tar.gz 1 -
+/site.bak 1 -
+/uploads/empresas/fileM.jpg.php 68 http://sistema.hgdiesel.com.br/orcamentos/ODA4Ng==/imprimir
+/sqladmin 1 http://sistema.hgdiesel.com.br/sqladmin/
+/phpmyadmin5 1 http://sistema.hgdiesel.com.br/phpmyadmin5/
+/wp-admin.rar 1 -
+/sistema_hgdiesel_com_br.zip 1 -
+/sistema.hgdiesel.com.br3.tar.gz 1 -
+/_backup.tar.gz 1 -
+/sistema-backup.tar.gz 1 -
+/sistema.hgdiesel.com.br%20%282%29.gz 1 -
+/backup.tar.gz 2 -
+/Code.rar 1 -
+/phpMyAdmin-4 1 http://sistema.hgdiesel.com.br/phpMyAdmin-4/
+/2.zip 1 -
+/adminer-4.8.1.php 1 -
+/cgi-bin.gz 1 -
+/backups.tar.gz 1 -
+/tar.tar 1 -
+/SQLyogTunnel.php 1 -
+/0.tar.gz 1 -
+/sistema.zip 1 -
+/data.gz 1 -
+/html.gz 1 -
+/httpdocs.tar 1 -
+/2023.7z 1 -
+/htdocs.tar 1 -
+/2.tar.gz 1 -
+/123.tar.gz 1 -
+/php.bak 1 -
+/sistema.hgdiesel.com.br%20%281%29.tar 1 -
+/sites.rar 1 -
+/home.tar 1 -
+/wp-content.tar 1 -
+/Archive.tar.gz 1 -
+/pack.rar 1 -
+/123.bak 1 -
+/my.rar 1 -
+//.env.bak 1 -
+/sistema.tgz 1 -
+/new_website.gz 1 -
+/app.bak 1 -
+/wordpress.tgz 1 -
+/Public/home/js/check.js 1 -
+/adminer-4.7.5.php 1 -
+/siste.gz 1 -
+/php.tar 1 -
+/admin.gz 1 -
+/sistemabackup.zip 1 -
+/siste_backup.gz 1 -
+/sistema_hgdiesel_com_br.bak 1 -
+/a.zip 1 -
+/sistema.backup.tar.gz 1 -
+/Code.zip 1 -
+/Code.bak 1 -
+/sistema.hgdiesel.com.br1.tar.gz 1 -
+/adminer-4.7.3.php 1 -
+/code.rar 1 -
+/wp-content.bz 1 -
+/pack.zip 1 -
+/html.bak 1 -
+/.tar 1 -
+/httpdocs.zip 1 -
+/sistema.hgdiesel.com.br%20%283%29.zip 1 -
+/admin.rar 1 -
+/theme.gz 1 -
+/web1.zip 1 -
+/website.tgz 1 -
+/backup.gz 2 -
+/adminer-4.6.2.php 1 -
+/data.rar 1 -
+/httpd.7z 1 -
+/my.zip 1 -
+/2022.bz 1 -
+/web.rar 1 -
+/data.zip 1 -
+/phpMyAdmin-5 1 http://sistema.hgdiesel.com.br/phpMyAdmin-5/
+/sistema.tar 1 -
+/htdocs.zip 1 -
+/site.bz 1 -
+/sites.bak 1 -
+/wp-content.tar.gz 1 -
+/new.tgz 1 -
+/wp-admin.zip 1 -
+/test.tgz 1 -
+/html.tgz 1 -
+/public.7z 1 -
+/1.tar.gz 1 -
+/code.tar 1 -
+/website.bz 1 -
+/phpmyadmin1 1 http://sistema.hgdiesel.com.br/phpmyadmin1/
+/a.bz 1 -
+/full_backup.tar 1 -
+/adminer-4.7.6.php 1 -
+/etc/phpmyadmin 1 http://sistema.hgdiesel.com.br/etc/phpmyadmin/
+/wordpress.bak 1 -
+/hdocs.bak 1 -
+/wwwroot.zip 1 -
+/new.tar.gz 1 -
+/123456.bz 1 -
+/aa.bz 1 -
+/1234.bz 1 -
+/Archive.zip 1 -
+/a.tar.gz 1 -
+/wp.rar 1 -
+/admin.tar 1 -
+/sistema_hgdiesel_com_br.gz 1 -
+/backup.tgz 2 -
+/new_website.zip 1 -
+/sistema.hgdiesel.com.br%20%283%29.tar 1 -
+/back.zip 1 -
+/sistema.hgdiesel.com.brbackup.tar 1 -
+/_adminer.php 1 -
+/back.rar 1 -
+/sistema.backup.gz 1 -
+/phpMyAdmin 3 http://sistema.hgdiesel.com.br/phpMyAdmin/
+/1.rar 1 -
+/public_html.7z 1 -
+/phpMyAdmin-3.3.3 1 http://sistema.hgdiesel.com.br/phpMyAdmin-3.3.3/
+/sistema.hgdiesel.com.br1.zip 2 -
+/html.tar.gz 1 -
+/data.tgz 1 -
+/web.zip 1 -
+/aa.bak 1 -
+/adminer-4.7.0.php 1 -
+/wwwroot.tgz 1 -
+/fullbackup.tar.gz 1 -
+/new.zip 1 -
+/1234.7z 1 -
+/theme.tgz 1 -
+/.tar.gz 1 -
+/WWW.bak 1 -
+/adminer-4.2.5.php 1 -
+/sistema.hgdiesel.com.br%20%282%29.tar.gz 1 -
+/public_html.bak 1 -
+/wordpress.rar 1 -
+/wp-content.7z 1 -
+/sistema_hgdiesel_com_br.tar 1 -
+/test.tar.gz 1 -
+/admin.bak 1 -
+/blog.zip 1 -
+/phpldapadmin 1 http://sistema.hgdiesel.com.br/phpldapadmin/
+/pack.tar.gz 1 -
+/sistema_hgdiesel_com_br.tar.gz 1 -
+/.zip 1 -
+/fullbackup.tar 1 -
+/bk.gz 1 -
+/adminer.php 1 -
+/web.tar 1 -
+/phpMyAdmin-2.11.0 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.0/
+/sistema-backup.tar 1 -
+/my.bz 1 -
+/Archive.tgz 1 -
+/2.gz 1 -
+/sites.tar 1 -
+/123456.tar 1 -
+/bak.rar 1 -
+/httpd.tgz 1 -
+/mydb.php 1 -
+/phpm 1 http://sistema.hgdiesel.com.br/phpm/
+//.env 1 -
+/phpmyadmin2 2 http://sistema.hgdiesel.com.br/phpmyadmin2/
+/1234.gz 1 -
+/sistema.hgdiesel.com.br%20%282%29.tgz 1 -
+/a.tgz 1 -
+/full_backup.tar.gz 1 -
+/web.tgz 1 -
+/website.tar.gz 1 -
+/Web.zip 1 -
+/httpdocs.tar.gz 1 -
+/1234.tgz 1 -
+/adminer-4.6.3.php 1 -
+/wp-admin.tgz 1 -
+/wp-admin.tar 1 -
+/httpd.bak 1 -
+/adminpma 1 http://sistema.hgdiesel.com.br/adminpma/
+/sistema-backup.gz 1 -
+/_backup.tar 1 -
+/0.rar 1 -
+/hdocs.tgz 1 -
+/Code.tar 1 -
+/sistemabackup.tgz 1 -
+/master.rar 1 -
+/sistema-backup.tgz 1 -
+/htdocs.tar.gz 1 -
+/backups.bak 1 -
+/old_website.gz 1 -
+/theme.tar 1 -
+/sistema.bz 1 -
+/website.7z 1 -
+/123456.rar 1 -
+/_phpmyadmin 1 http://sistema.hgdiesel.com.br/_phpmyadmin/
+/sistema.hgdiesel.com.br2.tar 1 -
+/WWW.tar 1 -
+/sistema.hgdiesel.com.br.backup.gz 1 -
+/pma/a 1 http://sistema.hgdiesel.com.br/pma/a/
+/sistema.hgdiesel.com.br2.gz 1 -
+/sites.7z 1 -
+/2022.zip 1 -
+/0.bak 1 -
+/123456.gz 1 -
+/2022.bak 1 -
+/uploads/empresas/rel.jpg 65 https://sistema.hgdiesel.com.br/orcamentos/ODA5MA==/imprimir
+/wp-includes.rar 1 -
+/2022.tar 1 -
+/wp-includes.7z 1 -
+/phpMyAdmin-2.11.6 1 http://sistema.hgdiesel.com.br/phpMyAdmin-2.11.6/
+/sistema.hgdiesel.com.brbackup.gz 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 42
+189.45.198.220 4694 4718 18676517 20230428145018
+186.209.30.3 1833 1852 10275482 20230429001515
+36.71.137.189 60 64 1007533 20230417202000
+117.54.139.82 19 24 887794 20230418034531
+35.213.234.99 5 7 678436 20230402011452
+103.157.49.30 3 6 473735 20230430135948
+35.90.52.181 3 6 473305 20230420093413
+162.142.125.12 2 2 8235 20230430223441
+162.241.45.71 2 2 9359 20230418031204
+167.248.133.184 2 2 8331 20230414140715
+167.248.133.51 1 1 4119 20230413043420
+167.94.138.33 1 1 4174 20230421095526
+162.142.125.223 1 1 4115 20230414144733
+162.142.125.11 1 1 4179 20230401092457
+87.236.176.53 1 1 5362 20230426052742
+59.11.214.75 1 1 0 20230401152323
+169.150.201.24 1 1 4103 20230412220159
+162.142.125.13 1 1 4135 20230411050915
+167.248.133.190 1 1 4185 20230415052741
+205.185.118.120 1 1 4455 20230419191126
+167.248.133.185 1 1 4116 20230407113030
+167.94.138.52 1 1 4165 20230412204050
+167.94.138.126 1 1 4117 20230416025123
+167.94.138.36 1 1 4120 20230407092938
+188.165.87.98 1 1 10473 20230427124507
+146.70.166.232 2 2 8230 20230407172808
+87.236.176.61 1 1 5342 20230401001844
+170.64.174.90 1 1 10321 20230403224907
+167.248.133.186 1 1 4128 20230426045941
+167.94.138.49 1 1 4167 20230428161218
+162.142.125.215 2 2 8314 20230425171148
+209.141.36.112 1 1 4418 20230414193450
+209.141.32.227 1 1 131961 20230419191130
+209.141.35.128 1 1 5538 20230419191129
+162.142.125.226 2 2 8325 20230421154940
+93.119.227.34 1 1 10483 20230420185843
+162.142.125.225 1 1 4162 20230411153947
+194.36.25.59 1 1 4110 20230410071833
+103.108.229.75 2 2 8218 20230409065237
+87.236.176.84 1 1 5325 20230417084855
+162.142.125.216 1 1 4171 20230407005511
+167.94.138.124 1 1 4131 20230401105158
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20230401 4 4 13652 4
+20230402 99 101 1059281 2
+20230403 714 719 3124677 8
+20230404 933 940 3858350 7
+20230405 372 380 2247793 7
+20230406 553 559 3126872 7
+20230407 5 5 20676 5
+20230409 1 1 4097 1
+20230410 51 53 455222 5
+20230411 168 168 749594 4
+20230412 453 453 1558970 7
+20230413 209 209 711691 4
+20230414 190 190 741275 10
+20230415 1 1 4185 1
+20230416 1 1 4117 1
+20230417 208 212 1720943 7
+20230418 238 243 1836029 7
+20230419 263 266 1183600 7
+20230420 510 517 2851574 7
+20230421 2 2 8313 2
+20230424 336 339 1849729 8
+20230425 267 268 932864 4
+20230426 398 398 1328153 7
+20230427 244 247 1406300 7
+20230428 377 377 1308429 5
+20230429 58 59 211653 1
+20230430 4 7 477850 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 29
+5mn-15mn 10
+30s-2mn 8
+15mn-30mn 11
+2mn-5mn 9
+0s-30s 53
+30mn-1h 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 246
+/_debugbar/open 2562 10450031 0 11
+/orcamentos/total 951 102998 0 0
+/produtos/store 413 223184 0 0
+/orcamentos 369 4188653 8 10
+/ordens-compra 256 2899504 1 13
+/login 184 921612 105 42
+/servicos/store 164 63522 0 0
+/produtos/create 134 92182 0 0
+/produtos/show 121 61841 0 0
+/servicos/show 120 46976 0 0
+/ordens-compra/9853/edit 1 8050 0 0
+/ 108 825310 7 4
+/orcamentos/7711/edit 1 9872 0 0
+/orcamentos/ODEyOA==/imprimir 2 12839 0 0
+/ordens-compra/OTgzOA==/imprimir 1 6340 0 0
+/ordens-compra/OTgzNA==/imprimir 1 6683 0 0
+/orcamentos/8154/edit 1 9948 0 0
+/orcamentos/8137/edit 1 8394 0 0
+/orcamentos/ODEwOQ==/imprimir 1 6354 0 0
+/orcamentos/ODEzNQ==/imprimir 1 6340 0 1
+/ordens-compra/9856/edit 3 23084 0 0
+/ordens-compra/OTg1NA==/imprimir 1 6384 0 0
+/orcamentos/ODEyOQ==/imprimir 1 6352 0 0
+/fonts/fontawesome-webfont.woff2 11 790856 0 0
+/produtos/update 79 47749 0 0
+/orcamentos/ODExNA==/imprimir 1 6302 0 0
+/orcamentos/Njk2Ng==/imprimir 1 7923 0 0
+/orcamentos/NzU5NQ==/imprimir 2 12957 0 0
+/orcamentos/8147/edit 3 23814 1 0
+/orcamentos/8128/edit 1 7935 0 0
+/_debugbar/assets/javascript 18 2185714 1 4
+/orcamentos/ODExNw==/imprimir 2 13234 0 0
+/ordens-compra/OTgyNw==/imprimir 1 6535 0 0
+/orcamentos/ODEwOA==/imprimir 2 13655 0 1
+/orcamentos/ODEzOQ==/imprimir 2 12888 0 0
+/orcamentos/8091/edit 2 20474 0 0
+/orcamentos/ODEwMA==/imprimir 1 6278 0 0
+/ordens-compra/OTg1Mw==/imprimir 1 6821 0 0
+/orcamentos/ODA4Ng==/imprimir 5 37727 0 1
+/ordens-compra/OTgyOA==/imprimir 1 6533 0 0
+/orcamentos/detail 2 1724 0 0
+/orcamentos/5901/edit 1 8415 0 0
+/orcamentos/email 1 535 0 0
+/ordens-compra/OTgzMw==/imprimir 1 6607 0 0
+/orcamentos/ODE1Nw==/imprimir 1 6449 0 1
+/orcamentos/ODA3Ng==/imprimir 4 26983 0 0
+/orcamentos/ODE1Mw==/imprimir 1 6339 0 0
+/orcamentos/8140/edit 1 8669 1 0
+/orcamentos/ODEwNQ==/imprimir 3 18961 0 1
+/orcamentos/8096/edit 3 25534 0 0
+/orcamentos/8145/edit 4 37572 0 0
+/orcamentos/ODExMg==/imprimir 1 6181 0 0
+/orcamentos/ODA4Nw==/imprimir 4 29708 0 0
+/orcamentos/ODExNQ==/imprimir 2 14224 0 0
+/orcamentos/8151/edit 2 17857 0 0
+/orcamentos/ODA5MA==/imprimir 6 39349 0 0
+/css/all.css.map 1 51860 0 0
+/ordens-compra/OTgzNQ==/imprimir 1 6499 0 1
+/itens/destroy 10 2669 0 0
+/orcamentos/ODA5Mg==/imprimir 2 14758 0 0
+/orcamentos/ODA5OQ==/imprimir 3 21778 0 0
+/alterar-senha 1 8374 0 0
+/ordens-compra/OTg1NQ==/imprimir 1 6828 0 0
+/ordens-compra/9817/edit 1 7561 0 0
+/ordens-compra/OTg0Ng==/imprimir 1 6370 0 0
+/orcamentos/ODEyNQ==/imprimir 1 6156 0 1
+/orcamentos/ODE0OQ==/imprimir 1 6239 0 0
+/ordens-compra/9855/edit 2 16044 0 0
+/orcamentos/ODE0Mw==/imprimir 5 33237 0 2
+/orcamentos/8146/edit 3 24810 0 0
+/orcamentos/ODEyMQ==/imprimir 3 19856 0 1
+/orcamentos/8076/edit 3 26288 0 0
+/ordens-compra/OTg0MQ==/imprimir 1 7202 0 0
+/servicos/edit 37 29090 0 0
+/orcamentos/8088/edit 2 18417 0 0
+/orcamentos/ODEwNg==/imprimir 2 13694 0 0
+/orcamentos/ODEwMw==/imprimir 2 12641 0 0
+/orcamentos/ODEwNA==/imprimir 5 31477 0 1
+/orcamentos/ODE1NA==/imprimir 3 21069 0 1
+/orcamentos/8099/edit 4 38731 0 0
+/orcamentos/ODEyMA==/imprimir 1 6133 0 0
+/ordens-compra/OTg2MA==/imprimir 1 6402 0 1
+/orcamentos/ODE0OA==/imprimir 1 6385 0 0
+/orcamentos/8086/edit 3 30989 0 0
+/orcamentos/8102/edit 3 24414 0 0
+/ordens-compra/OTg1Ng==/imprimir 1 6297 0 0
+/orcamentos/NzI2OQ==/imprimir 1 7404 0 0
+/orcamentos/ODE0MA==/imprimir 3 19469 0 2
+/orcamentos/8090/edit 6 41362 0 0
+/ordens-compra/9823/edit 4 30159 0 0
+/orcamentos/7411/edit 1 8777 0 0
+/js/all.js.map 1 116491 0 0
+/orcamentos/8104/edit 6 50495 0 0
+/orcamentos/ODEyNA==/imprimir 1 6174 0 0
+/orcamentos/7925/edit 1 9021 0 0
+/ordens-compra/OTg0NQ==/imprimir 2 12636 0 0
+/orcamentos/8127/edit 2 19769 0 0
+/orcamentos/ODEyNg==/imprimir 1 6216 0 1
+/orcamentos/8156/edit 4 32704 0 0
+/itens/edit 19 11061 0 0
+/orcamentos/ODA5Mw==/imprimir 3 20864 0 0
+/ordens-compra/OTgyMw==/imprimir 2 12972 0 0
+/orcamentos/ODExMw==/imprimir 2 12287 0 0
+/ordens-compra/create 70 499926 0 1
+/orcamentos/8115/edit 2 17917 0 0
+/ordens-compra/OTgxNA==/imprimir 3 19563 0 0
+/orcamentos/ODExMA==/imprimir 1 7211 0 1
+/orcamentos/ODE1Mg==/imprimir 4 26104 0 2
+/orcamentos/ODA5NQ==/imprimir 4 27664 0 2
+/orcamentos/8105/edit 4 31305 0 0
+/orcamentos/ODEzMA==/imprimir 2 13368 0 0
+/orcamentos/ODE0MQ==/imprimir 1 6633 0 1
+/orcamentos/8139/edit 1 8211 0 0
+/orcamentos/ODE0Ng==/imprimir 1 6497 0 0
+/orcamentos/ODEyMg==/imprimir 2 14131 2 1
+/ordens-compra/OTgxOQ==/imprimir 1 7455 0 1
+/orcamentos/8117/edit 1 8056 0 0
+/orcamentos/ODA5MQ==/imprimir 4 26625 0 2
+/orcamentos/ODEwMg==/imprimir 4 25761 1 0
+/ordens-compra/OTgxNg==/imprimir 1 6425 0 0
+/empresas/5/edit 3 25358 0 0
+/ordens-compra/9846/edit 1 7151 0 0
+/orcamentos/ODEwMQ==/imprimir 2 15521 0 1
+/ordens-compra/OTg3Mg==/imprimir 1 6590 0 0
+/orcamentos/ODEzNg==/imprimir 2 13970 0 0
+/ordens-compra/OTgxNw==/imprimir 2 13069 0 0
+/orcamentos/NjcwNA==/imprimir 1 6436 0 0
+/orcamentos/5897/edit 1 8671 0 0
+/ordens-compra/9871/edit 3 22272 0 0
+/orcamentos/ODE1MQ==/imprimir 2 13786 0 0
+/orcamentos/ODA4OA==/imprimir 2 13968 1 1
+/ordens-compra/OTg0Nw==/imprimir 1 6395 0 0
+/orcamentos/8138/edit 1 8265 0 0
+/produtos/order 7 4498 0 0
+/ordens-compra/OTg1MA==/imprimir 1 6529 0 0
+/itens/store 93 29703 0 0
+/ordens-compra/OTgyMg==/imprimir 1 7078 0 1
+/orcamentos/2915/edit 1 8600 0 0
+/orcamentos/NzkxNA==/imprimir 1 7191 0 0
+/orcamentos/ODEyNw==/imprimir 2 12849 0 0
+/ordens-compra/OTg2Mg==/imprimir 2 14372 0 1
+/orcamentos/6842/edit 1 9356 0 0
+/orcamentos/7905/edit 1 9126 0 0
+/orcamentos/8084/edit 7 58151 0 0
+/ordens-compra/OTg1Mg==/imprimir 1 6882 0 0
+/servicos/destroy 7 2570 0 0
+/itens/create 85 48853 1 0
+/orcamentos/ODE1NQ==/imprimir 1 6300 0 1
+/password/reset 1 4478 0 0
+/ordens-compra/OTg1OA==/imprimir 1 6359 0 0
+/ordens-compra/OTg0OA==/imprimir 1 6412 0 0
+/ordens-compra/9852/edit 2 15119 0 0
+/orcamentos/ODEzMQ==/imprimir 2 13396 0 1
+/ordens-compra/detail 21 9133 0 0
+/orcamentos/ODE0NA==/imprimir 1 6389 0 0
+/orcamentos/7832/edit 1 9269 0 0
+/orcamentos/ODE0Nw==/imprimir 2 12711 0 1
+/ordens-compra/9843/edit 3 28990 0 0
+/ordens-compra/relatorio 1 11105 0 0
+/orcamentos/ODE1MA==/imprimir 1 6249 0 1
+/itens/show 38 9619 0 0
+/ordens-compra/OTgxMQ==/imprimir 1 6505 0 0
+/orcamentos/8108/edit 1 8794 0 0
+/orcamentos/ODA5OA==/imprimir 2 13215 0 0
+/orcamentos/ODEzMg==/imprimir 1 6627 0 0
+/orcamentos/8098/edit 1 8485 0 0
+/orcamentos/8087/edit 1 10180 0 0
+/orcamentos/8092/edit 1 10025 0 0
+/orcamentos/create 88 691569 3 0
+/orcamentos/7833/edit 1 9026 0 0
+/orcamentos/Nzk4Ng==/imprimir 1 7170 0 0
+/ordens-compra/OTgyOQ==/imprimir 1 6474 0 0
+/ordens-compra/9814/edit 3 22179 0 0
+/orcamentos/ODA5Ng==/imprimir 3 19886 0 1
+/ordens-compra/9845/edit 2 14340 0 0
+/ordens-compra/9813/edit 2 15099 1 0
+/orcamentos/8142/edit 9 74436 1 0
+/orcamentos/MjkxNA==/imprimir 9 61859 2 0
+/ordens-compra/9815/edit 1 7629 0 0
+/orcamentos/Nzg4Ng==/imprimir 1 6360 0 0
+/orcamentos/ODE0NQ==/imprimir 2 14650 0 1
+/ordens-compra/OTg3MQ==/imprimir 2 12790 0 0
+/orcamentos/ODA2Mg==/imprimir 1 7833 0 0
+/orcamentos/ODEyMw==/imprimir 3 20580 0 1
+/orcamentos/8107/edit 1 7865 0 0
+/users/create 1 7168 0 0
+/orcamentos/4674/edit 1 8676 0 0
+/orcamentos/8113/edit 1 7637 0 0
+/servicos/update 32 13482 0 0
+/ordens-compra/9830/edit 3 22213 0 0
+/orcamentos/ODEzNw==/imprimir 1 6610 0 0
+/orcamentos/8136/edit 1 8754 0 0
+/orcamentos/ODEzOA==/imprimir 2 13140 0 0
+/ordens-compra/OTg2OQ==/imprimir 1 6524 0 0
+/ordens-compra/9825/edit 1 8364 0 0
+/orcamentos/8143/edit 3 25835 1 0
+/itens/update 21 6794 0 0
+/ordens-compra/9848/edit 1 7164 0 0
+/ordens-compra/9851/edit 1 7013 0 0
+/orcamentos/8109/edit 3 26206 0 0
+/produtos/edit 74 51746 0 0
+/orcamentos/ODA5Nw==/imprimir 3 20115 0 2
+/orcamentos/ODA4NA==/imprimir 3 20146 0 0
+/ordens-compra/OTg3MA==/imprimir 1 6446 0 0
+/orcamentos/8097/edit 3 25521 0 0
+/itens/order 3 945 0 0
+/orcamentos/ODA5NA==/imprimir 3 22394 0 2
+/ordens-compra/OTg0Mg==/imprimir 1 7267 0 1
+/orcamentos/ODEzNA==/imprimir 1 6338 0 0
+/orcamentos/ODExNg==/imprimir 1 6481 0 1
+/orcamentos/8133/edit 1 8200 0 0
+/orcamentos/ODExOQ==/imprimir 3 19196 0 0
+/orcamentos/ODE1Ng==/imprimir 3 19940 0 1
+/ordens-compra/9828/edit 2 14720 0 0
+/ordens-compra/9850/edit 2 14565 0 0
+/empresas 5 37851 0 0
+/orcamentos/ODAzMw==/imprimir 1 6926 0 1
+/orcamentos/ODExMQ==/imprimir 2 12811 0 0
+/ordens-compra/OTg0OQ==/imprimir 1 6343 0 1
+/orcamentos/7893/edit 3 23670 0 0
+/ordens-compra/OTgzMA==/imprimir 1 6364 0 0
+/ordens-compra/OTgzNg==/imprimir 1 6472 0 1
+/servicos/create 106 77081 0 0
+/ordens-compra/OTg0NA==/imprimir 2 12807 0 0
+/produtos/destroy 9 5917 0 0
+/orcamentos/8093/edit 3 27511 0 0
+/ordens-compra/OTgxMg==/imprimir 1 6515 0 0
+/orcamentos/enviados 2 20522 0 0
+/ordens-compra/OTgxMw==/imprimir 5 32749 0 0
+/ordens-compra/OTg1Nw==/imprimir 1 6381 0 0
+/users 9 76149 0 0
+/orcamentos/8152/edit 1 9593 0 0
+/orcamentos/ODExOA==/imprimir 2 12988 0 1
+/orcamentos/8123/edit 2 18134 0 0
+/orcamentos/8158/edit 1 10138 0 0
+/orcamentos/ODA4OQ==/imprimir 2 14739 0 0
+/orcamentos/8094/edit 1 10052 0 0
+/_debugbar/assets/stylesheets 15 1674294 0 0
+/ordens-compra/OTgyMA==/imprimir 1 6658 0 1
+/ordens-compra/OTgxNQ==/imprimir 2 13050 0 0
+/ordens-compra/OTg2MQ==/imprimir 1 7217 0 0
+/orcamentos/8106/edit 2 17970 0 0
+/orcamentos/ODE0Mg==/imprimir 8 52986 0 2
+/orcamentos/8121/edit 2 17366 0 0
+/orcamentos/ODE1OA==/imprimir 2 15103 0 1
+/users/34/edit 5 37783 0 0
+END_SIDER

@@ -1,0 +1,1 @@
+[19-Nov-2021 22:46:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/customer/www/sistema.hgdiesel.com.br/vendor/composer/../symfony/polyfill-ctype/bootstrap.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/sistema.hgdiesel.com.br/vendor/composer/autoload_real.php on line 71

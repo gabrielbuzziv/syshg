@@ -1,0 +1,909 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201902 will be lost/reset.
+# Last config file used to build this data file was /home/hgdiesel/tmp/awstats/awstats.sistema.hgdiesel.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2680                
+POS_VISITOR 19509               
+POS_DAY 19985               
+POS_DOMAIN 3503                
+POS_LOGIN 3802                
+POS_ROBOT 3957                
+POS_WORMS 4355                
+POS_EMAILSENDER 4486                
+POS_EMAILRECEIVER 4629                
+POS_SESSION 20586               
+POS_SIDER 20798               
+POS_FILETYPES 4764                
+POS_DOWNLOADS 4968                
+POS_OS 5016                
+POS_BROWSER 5175                
+POS_SCREENSIZE 5571                
+POS_UNKNOWNREFERER 5645                
+POS_UNKNOWNREFERERBROWSER 5732                
+POS_ORIGIN 5873                
+POS_SEREFERRALS 6013                
+POS_PAGEREFS 6157                
+POS_SEARCHWORDS 6305                
+POS_KEYWORDS 6457                
+POS_MISC 2343                
+POS_ERRORS 6516                
+POS_CLUSTER 3658                
+POS_SIDER_404 6658                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190301044758 1 0 11789621269191
+FirstTime 0
+LastTime 20190228175156
+LastUpdate 20190301054024 1 0 0 0 0
+TotalVisits 160                 
+TotalUnique 10                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 24 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 47 51 320193
+1 4 6 803440 21 21 93982
+2 9 9 56832 7 13 32310
+3 153 156 1587398 135 153 2479824
+4 321 324 2633121 78 107 1133228
+5 698 712 7787427 96 141 113983
+6 1312 1317 9676640 208 264 764227
+7 594 600 5357188 72 101 205119
+8 288 294 3457288 37 52 151103
+9 267 274 3258430 56 70 150299
+10 649 663 6703698 104 155 208036
+11 947 960 8468905 93 143 688679
+12 864 868 5910113 104 152 166894
+13 672 673 4229400 103 152 379847
+14 254 260 2475854 27 42 62374
+15 166 175 3092560 83 113 2337370
+16 315 318 2372384 41 55 772114
+17 189 192 1808716 21 28 53620
+18 29 29 154270 6 14 667872
+19 2 2 16978 9 18 652266
+20 5 5 30715 1 3 436
+21 0 0 0 7 11 35758
+22 0 0 0 11 24 1321685
+23 0 0 0 4 6 13711
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+br 7723 7814 67023999
+ca 7 13 2041708
+id 3 5 799662
+zz 2 2 7584
+us 2 2 3737
+vn 1 1 4667
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+no_user_agent 166 1091055 20190228145850 0
+bot[\s_+:,\.\;\/\\-] 88 3821298 20190228050418 25
+googlebot 21 799999 20190228174353 7
+unknown 19 456 20190228163257 19
+robot 11 11094 20190223221154 8
+bingpreview 5 1292736 20190211224359 0
+crawl 3 437720 20190214114024 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 41 2242160 0 0
+png 27 104571 0 0
+Unknown 7465 58537467 0 0
+html 238 1573191 0 0
+js 31 4991157 0 0
+eot 3 132139 0 0
+woff2 32 2300672 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+winnt 1564 1540
+win7 4067 4039
+winxp 2177 2141
+linux 1 1
+macosx 1 1
+java 18 10
+ios_iphone 9 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome72.0.3626.119 1087 1074
+firefox64.0 116 112
+msie8.0 11 9
+chrome71.0.3578.98 2138 2127
+msie6.0 1 1
+Unknown 18 10
+chrome60.0.3112.101 1 1
+chrome50.0.2661.102 1 1
+chrome49.0.2623.112 2176 2140
+chrome72.0.3626.96 450 447
+safari11.0 9 6
+chrome42.0.2311.152 2 2
+msie11.0 577 574
+firefox65.0 121 111
+firefox59.0 1 1
+chrome72.0.3626.109 1128 1122
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Java/1.4.1_04 20190214013139
+Java/1.8.0_202 20190205092706
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 300 308
+From1 0 0
+From2 0 0
+From3 0 0
+From4 7438 7529
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+444 2 0
+301 31 7605
+500 15 893703
+404 267 4041184
+302 1016 408080
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 218
+/js/,data:n}).done(function(e){o=arguments,s.html(i 4 -
+/compat/dropdownCss 1 http://sistema.hgdiesel.com.br/js/all.js
+/dropdown 1 http://sistema.hgdiesel.com.br/js/all.js
+/focus.select2 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/dropdown/search 1 http://sistema.hgdiesel.com.br/js/all.js
+/selection/search 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/uploads/2019/01/new_license.php 1 -
+/select2/dropdown/selectOnClose 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/memory.peak_usage_str 1 http://sistema.hgdiesel.com.br/index.php/login
+/select2/data/array 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/exceptions.exceptions 1 http://sistema.hgdiesel.com.br/index.php/login
+/bs.dropdown 1 http://sistema.hgdiesel.com.br/js/all.js
+/a 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/uploads/new_up.php 1 -
+/_debugbar/assets/javascript/],_default:k.htmlSerialize 1 -
+/data/select 1 http://sistema.hgdiesel.com.br/js/all.js
+/x.php 1 -
+/options 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/swiftmailer_mails.count 1 http://sistema.hgdiesel.com.br/index.php/login
+/wp-login.php 3 -
+/t.php 1 -
+/select2/utils 1 http://sistema.hgdiesel.com.br/js/all.js
+/img/loading.gif 1 http://sistema.hgdiesel.com.br/css/all.css
+/orcamentos.create 1 http://sistema.hgdiesel.com.br/js/all.js
+/blur.mask 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/messages.messages 1 http://sistema.hgdiesel.com.br/index.php/login
+/index.php/beforeactivate._change 1 http://sistema.hgdiesel.com.br/index.php/_debugbar/assets/javascript
+/keys 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/propertychange._change 1 http://sistema.hgdiesel.com.br/index.php/_debugbar/assets/javascript
+/i18n 1 http://sistema.hgdiesel.com.br/i18n/
+/selection/placeholder 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/plugins/wpstorecart/readme.txt 1 http://sistema.hgdiesel.com.br/wp-content/plugins/wpstorecart/readme.txt
+/00/00/0000 1 http://sistema.hgdiesel.com.br/js/all.js
+/y.php 1 -
+/bs.tooltip 1 http://sistema.hgdiesel.com.br/js/all.js
+/invalid-form.validate 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/plugins/gravityforms 1 http://sistema.hgdiesel.com.br/wp-content/plugins/gravityforms/
+/data/maximumInputLength 1 http://sistema.hgdiesel.com.br/js/all.js
+/change.select2 1 http://sistema.hgdiesel.com.br/js/all.js
+/route.uri 1 http://sistema.hgdiesel.com.br/login
+/translation 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-info.php 1 -
+/select2/data/select 1 http://sistema.hgdiesel.com.br/js/all.js
+/data/tokenizer 1 http://sistema.hgdiesel.com.br/js/all.js
+/select 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/dropdown/minimumResultsForSearch 1 http://sistema.hgdiesel.com.br/js/all.js
+/81.24ms 1 http://sistema.hgdiesel.com.br/login
+/home/hgdiesel/public_html/sistema/public 1 http://sistema.hgdiesel.com.br/login
+/12.75MB 1 http://sistema.hgdiesel.com.br/login
+/wp/wp-login.php 1 -
+/js/).children().detach().end()[this.options.html 4 -
+/bs.scrollspy 1 http://sistema.hgdiesel.com.br/js/all.js
+/js/).length,t.htmlSerialize=!!d.getElementsByTagName( 4 -
+/select2/selection/base 1 http://sistema.hgdiesel.com.br/js/all.js
+/home/hgdiesel/public_html/sistema/public/index.php 1 http://sistema.hgdiesel.com.br/login
+/index.php/swiftmailer_mails.mails 1 http://sistema.hgdiesel.com.br/index.php/login
+/base 1 http://sistema.hgdiesel.com.br/js/all.js
+/submit.validate 1 http://sistema.hgdiesel.com.br/js/all.js
+/defaults 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/plugins/wp-easy-gallery-pro/admin/php.php 1 http://sistema.hgdiesel.com.br/wp-content/plugins/wp-easy-gallery-pro/admin/php.php
+/data/minimumInputLength 1 http://sistema.hgdiesel.com.br/js/all.js
+/selection/single 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/plugins/wp-admin-manager/up.php 1 -
+/404.php 1 -
+/focus.mask 1 http://sistema.hgdiesel.com.br/js/all.js
+/config.php 1 -
+/Microsoft.XMLDOM 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/62.62ms 1 http://sistema.hgdiesel.com.br/index.php/login
+/blog/robots.txt 10 -
+/index.php/css/all.css 1 http://sistema.hgdiesel.com.br/index.php/login
+/bs.popover 1 http://sistema.hgdiesel.com.br/js/all.js
+/m.php 1 -
+/css/images/details_close.png 1 http://sistema.hgdiesel.com.br/css/all.css
+/1.php 1 -
+/wp-content/plugins/wp-dreamworkgallery/readme.txt 1 http://sistema.hgdiesel.com.br/wp-content/plugins/wp-dreamworkgallery/readme.txt
+/select2/dropdown/hidePlaceholder 1 http://sistema.hgdiesel.com.br/js/all.js
+/62.53ms 1 http://sistema.hgdiesel.com.br/login
+/select2/core 1 http://sistema.hgdiesel.com.br/js/all.js
+/cpanel.php 1 -
+/i18n/en 1 http://sistema.hgdiesel.com.br/js/all.js
+/bs.carousel 1 http://sistema.hgdiesel.com.br/js/all.js
+/bs.button 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/i18n/en 1 http://sistema.hgdiesel.com.br/js/all.js
+/118.01ms 1 http://sistema.hgdiesel.com.br/login
+/js/).html()||a.find( 4 -
+/focusout.mask 1 http://sistema.hgdiesel.com.br/js/all.js
+/data/tags 1 http://sistema.hgdiesel.com.br/js/all.js
+/bs.affix 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/messages.count 1 http://sistema.hgdiesel.com.br/index.php/login
+/\\/index.php\\ 2 -
+/wp-content/plugins/widget-logic/mini.php 1 -
+/_debugbar/assets/javascript/,data:b}).done(function(a){e=arguments,g.html(d 1 -
+/xmlrpc.php 9 -
+/s.php 1 -
+/_debugbar/assets/javascript/===c 1 -
+/select2/dropdown/infiniteScroll 1 http://sistema.hgdiesel.com.br/js/all.js
+/compat/inputData 1 http://sistema.hgdiesel.com.br/js/all.js
+/dropdown/closeOnSelect 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/plugins/theme-configurator/mini.php 1 -
+/selection/multiple 1 http://sistema.hgdiesel.com.br/js/all.js
+/new_license.php 1 -
+/root.php 1 -
+/index.php/views.nb_templates 1 http://sistema.hgdiesel.com.br/index.php/login
+/index.php/90.49ms 1 http://sistema.hgdiesel.com.br/index.php/login
+/select2/data/ajax 1 http://sistema.hgdiesel.com.br/js/all.js
+/2018.php 1 -
+/V5.php 1 -
+/_debugbar/assets/javascript/).length,k.html5Clone= 1 -
+/dropdown/hidePlaceholder 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/selection/eventRelay 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 1 http://sistema.hgdiesel.com.br/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
+/select2/keys 1 http://sistema.hgdiesel.com.br/js/all.js
+/z.php 1 -
+/click._change 1 http://sistema.hgdiesel.com.br/js/all.js
+/administrator/index.php 2 -
+/HTTP/1.0 1 http://sistema.hgdiesel.com.br/login
+/js/)[this.options.html 4 -
+/js/!=typeof%20e||Tt.test(e)||!x.support.htmlSerialize&&mt.test(e)||!x.support.leadingWhitespace&&yt.test(e)||At[(bt.exec(e)||[ 4 -
+/beforeactivate._change 1 http://sistema.hgdiesel.com.br/js/all.js
+/bs.tab 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/selection/search 1 http://sistema.hgdiesel.com.br/js/all.js
+/password/reset'A=0 1 http://sistema.hgdiesel.com.br/password/reset'A=0
+/license.php 1 -
+/blog/administrator/index.php 1 -
+/usr/local/php56/bin/php 1 http://sistema.hgdiesel.com.br/login
+/select2/data/minimumInputLength 1 http://sistema.hgdiesel.com.br/js/all.js
+/js/).enctype,t.html5Clone= 4 -
+/wordpress/wp-login.php 1 -
+/d.php 1 -
+/dropdown/attachBody 1 http://sistema.hgdiesel.com.br/js/all.js
+/order 1 http://sistema.hgdiesel.com.br/js/all.js
+/selection/allowClear 1 http://sistema.hgdiesel.com.br/js/all.js
+/dropdown/infiniteScroll 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/selection/single 1 http://sistema.hgdiesel.com.br/js/all.js
+/queries.nb_statements 1 http://sistema.hgdiesel.com.br/login
+/select2/data/maximumInputLength 1 http://sistema.hgdiesel.com.br/js/all.js
+/bs.modal 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/data/base 1 http://sistema.hgdiesel.com.br/js/all.js
+/data/ajax 1 http://sistema.hgdiesel.com.br/js/all.js
+/o.php 1 -
+/orcamentos.edit 1 http://sistema.hgdiesel.com.br/js/all.js
+/img/loading-sm.gif 1 http://sistema.hgdiesel.com.br/css/all.css
+/a.php 1 -
+/_debugbar/assets/javascript/===c)&&(b.defaultValue=a.defaultValue)}}m.extend({clone:function(a,b,c){var%20d,e,f,g,h,i=m.contains(a.ownerDocument,a) 1 -
+/index.php/click._change 1 http://sistema.hgdiesel.com.br/index.php/_debugbar/assets/javascript
+/blur.validate-equalTo 1 http://sistema.hgdiesel.com.br/js/all.js
+/swiftmailer_mails.mails 1 http://sistema.hgdiesel.com.br/login
+/selection/eventRelay 1 http://sistema.hgdiesel.com.br/js/all.js
+/propertychange._change 1 http://sistema.hgdiesel.com.br/js/all.js
+/data/array 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/CGI/1.1 1 http://sistema.hgdiesel.com.br/index.php/login
+/select2/options 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/data/tags 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/selection/multiple 1 http://sistema.hgdiesel.com.br/js/all.js
+/joomla/administrator/index.php 1 -
+/diacritics 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/exceptions.count 1 http://sistema.hgdiesel.com.br/index.php/login
+/css/images/details_open.png 1 http://sistema.hgdiesel.com.br/css/all.css
+/select2/diacritics 1 http://sistema.hgdiesel.com.br/js/all.js
+/_debugbar/assets/javascript/).length,k.htmlSerialize=!!b.getElementsByTagName( 1 -
+/change.mask 1 http://sistema.hgdiesel.com.br/js/all.js
+/change._change 1 http://sistema.hgdiesel.com.br/js/all.js
+/results 1 http://sistema.hgdiesel.com.br/js/all.js
+/cp.php 1 -
+/js/===n 3 -
+/bs.collapse 1 http://sistema.hgdiesel.com.br/js/all.js
+/change.fileinput 1 http://sistema.hgdiesel.com.br/js/all.js
+/js/],_default:x.support.htmlSerialize 4 -
+/submit._submit 1 http://sistema.hgdiesel.com.br/js/all.js
+/1337w0rm.php 1 -
+/select2/translation 1 http://sistema.hgdiesel.com.br/js/all.js
+/Microsoft.XMLHTTP 1 http://sistema.hgdiesel.com.br/js/all.js
+/c.php 1 -
+/array 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/index.php 1 http://sistema.hgdiesel.com.br/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/index.php
+/select2/data/tokenizer 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/dropdown/attachBody 1 http://sistema.hgdiesel.com.br/js/all.js
+/swiftmailer_mails.count 1 http://sistema.hgdiesel.com.br/login
+/select2/selection/placeholder 1 http://sistema.hgdiesel.com.br/js/all.js
+/joomla/robots.txt 1 -
+/w.php 1 -
+/css/images/weather_background.jpg 1 http://sistema.hgdiesel.com.br/css/all.css
+/e.php 1 -
+/select2/data/maximumSelectionLength 1 http://sistema.hgdiesel.com.br/js/all.js
+/dropdown/minimumResultsForSearch 1 http://sistema.hgdiesel.com.br/js/all.js
+/index.php/images/syshg.png 1 http://sistema.hgdiesel.com.br/index.php/login
+/wp-content/uploads/2019/01/content-post.php 1 -
+/index.php/12.75MB 1 http://sistema.hgdiesel.com.br/index.php/login
+/098.php 1 -
+/index.php/js/all.js 1 http://sistema.hgdiesel.com.br/index.php/login
+/wp-content/plugins/ppus/up.php 1 -
+/ordens-compra.edit 1 http://sistema.hgdiesel.com.br/js/all.js
+/CGI/1.1 1 http://sistema.hgdiesel.com.br/login
+/index.php/change._change 1 http://sistema.hgdiesel.com.br/index.php/_debugbar/assets/javascript
+/wp-content/vuln.php 1 -
+/00.000-000 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/dropdown 1 http://sistema.hgdiesel.com.br/js/all.js
+/wp.php 1 -
+/index.php/queries.nb_statements 1 http://sistema.hgdiesel.com.br/index.php/login
+/data/maximumSelectionLength 1 http://sistema.hgdiesel.com.br/js/all.js
+/_debugbar/assets/javascript/!=typeof%20a||ma.test(a)||!k.htmlSerialize&&ga.test(a)||!k.leadingWhitespace&&ha.test(a)||ra[(ja.exec(a)||[ 1 -
+/index.php/Microsoft.XMLHTTP 1 http://sistema.hgdiesel.com.br/index.php/_debugbar/assets/javascript
+/select2/results 1 http://sistema.hgdiesel.com.br/js/all.js
+/2019.php 1 -
+/dropdown/search 1 http://sistema.hgdiesel.com.br/js/all.js
+/select2/defaults 1 http://sistema.hgdiesel.com.br/js/all.js
+/compat/query 1 http://sistema.hgdiesel.com.br/js/all.js
+/upel.php 1 -
+/index.php/HTTP/1.0 1 http://sistema.hgdiesel.com.br/index.php/login
+/js/'+b+' 3 -
+/wp-content/plugins/simple-ads-manager/readme.txt 1 http://sistema.hgdiesel.com.br/wp-content/plugins/simple-ads-manager/readme.txt
+/Popover%20requires%20tooltip.js 1 http://sistema.hgdiesel.com.br/js/all.js
+/jquery.select2 1 http://sistema.hgdiesel.com.br/js/all.js
+/compat/containerCss 1 http://sistema.hgdiesel.com.br/js/all.js
+/k.php 1 -
+/keyup.search 1 http://sistema.hgdiesel.com.br/js/all.js
+/click.validate 1 http://sistema.hgdiesel.com.br/js/all.js
+/bs.alert 1 http://sistema.hgdiesel.com.br/js/all.js
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+187.85.170.13 4657 4731 44911960 20190228175156
+186.209.30.3 3059 3073 21381928 20190228145849
+192.99.27.0 7 13 2041708 20190205092706
+187.117.147.65 6 9 725533 20190213151855
+102.165.34.8 3 5 799662 20190214013139
+134.73.199.154 2 2 7584 20190228023707
+191.177.183.147 1 1 4578 20190225180839
+1.55.175.50 1 1 4667 20190213200230
+52.53.180.116 1 1 0 20190213154423
+204.44.64.133 1 1 3737 20190211145209
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20190201 383 387 3299976 5
+20190204 271 276 2418528 7
+20190205 321 328 4241952 9
+20190206 172 172 1234281 6
+20190207 661 663 4678543 9
+20190208 447 453 3606850 8
+20190211 572 574 3700196 6
+20190212 388 391 3209950 6
+20190213 437 440 3308903 11
+20190214 198 200 1979571 11
+20190215 338 347 3994828 7
+20190218 524 529 3991634 8
+20190219 506 517 5850503 7
+20190220 190 191 1307791 9
+20190221 207 210 1906980 9
+20190222 637 642 4950388 7
+20190225 210 215 2586250 7
+20190226 516 527 5857626 7
+20190227 368 380 4794614 11
+20190228 392 395 2961993 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 22
+0s-30s 29
+2mn-5mn 21
+15mn-30mn 20
+30s-2mn 22
+1h+ 29
+5mn-15mn 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 387
+/_debugbar/open 2623 27530715 0 6
+/orcamentos/total 834 106739 0 0
+/ordens-compra 733 7459818 8 22
+/produtos/store 377 200994 0 0
+/orcamentos 321 3490815 2 5
+/login 245 1202588 124 7
+/itens/store 244 93557 0 0
+/ 238 1573191 20 3
+/itens/create 171 117619 0 0
+/ordens-compra/create 163 1072914 2 1
+/servicos/store 161 67537 0 0
+/produtos/create 127 92766 0 0
+/itens/show 102 36414 0 0
+/servicos/create 99 76154 0 0
+/orcamentos/create 98 688956 0 0
+/produtos/show 71 37596 0 0
+/servicos/show 71 26317 0 0
+/produtos/edit 63 47615 0 0
+/produtos/update 60 35451 0 0
+/itens/edit 59 42104 0 0
+/itens/update 58 22763 0 0
+/produtos/destroy 48 25164 0 0
+/fonts/fontawesome-webfont.woff2 32 2300672 0 0
+/_debugbar/assets/stylesheets 32 3076884 0 0
+/_debugbar/assets/javascript 27 9420705 0 3
+/orcamentos/3353/edit 1 7273 0 0
+/ordens-compra/NDQyMg==/imprimir 1 2794 0 0
+/ordens-compra/NDM5NA==/imprimir 2 5606 0 2
+/orcamentos/3329/edit 1 8700 0 0
+/ordens-compra/4528/edit 1 6910 0 0
+/ordens-compra/NDQ2MQ==/imprimir 1 2786 0 0
+/fonts/glyphicons-halflings-regular.eot 1 20127 0 0
+/ordens-compra/4515/edit 1 6742 0 0
+/ordens-compra/4434/edit 4 28253 0 0
+/orcamentos/3371/edit 1 7226 0 0
+/orcamentos/3368/edit 2 14729 0 0
+/ordens-compra/NDQzMQ==/imprimir 2 5714 0 0
+/ordens-compra/NDQwOA==/imprimir 1 2746 0 0
+/ordens-compra/NDM4OQ==/imprimir 2 5580 0 0
+/ordens-compra/4507/edit 1 6809 0 0
+/ordens-compra/NDUxMg==/imprimir 3 8357 0 0
+/ordens-compra/NDM4NA==/imprimir 1 2797 0 0
+/orcamentos/3391/edit 1 7866 0 0
+/orcamentos/MzMzMw==/imprimir 1 9474 0 0
+/ordens-compra/NDQ2NQ==/imprimir 2 5559 0 0
+/ordens-compra/4467/edit 4 27310 0 0
+/ordens-compra/NDM3OA==/imprimir 1 2902 0 0
+/ordens-compra/4480/edit 1 6897 0 0
+/orcamentos/MzMwNg==/imprimir 1 11050 0 1
+/ordens-compra/4336/edit 1 6810 0 0
+/ordens-compra/NDQ5NQ==/imprimir 2 5929 0 0
+/orcamentos/MzM2Nw==/imprimir 1 5641 0 1
+/ordens-compra/4489/edit 1 6873 0 0
+/orcamentos/MzM2NQ==/imprimir 1 5612 0 0
+/ordens-compra/NDQ5Mg==/imprimir 1 2790 0 0
+/orcamentos/MzMxNw==/imprimir 1 5628 0 1
+/ordens-compra/NDE0OA==/imprimir 1 2785 0 0
+/orcamentos/3326/edit 1 7668 0 0
+/orcamentos/MzM3Nw==/imprimir 1 9860 0 1
+/ordens-compra/4404/edit 1 6855 0 0
+/ordens-compra/NDUwNg==/imprimir 2 5372 0 0
+/ordens-compra/NDQzNg==/imprimir 2 5712 0 1
+/ordens-compra/NDUyOQ==/imprimir 1 2958 0 1
+/ordens-compra/NDQ0OQ==/imprimir 2 5798 0 1
+/orcamentos/2987/edit 1 7789 0 0
+/orcamentos/3311/edit 1 7301 0 0
+/orcamentos/MzMxOA==/imprimir 1 9801 0 1
+/ordens-compra/4451/edit 2 13855 0 0
+/ordens-compra/4425/edit 3 20664 0 0
+/ordens-compra/NDQ2Ng==/imprimir 2 5616 0 0
+/ordens-compra/NDQyNA==/imprimir 1 2813 0 0
+/orcamentos/3336/edit 1 7107 0 0
+/orcamentos/MzM3OQ==/imprimir 2 19900 0 0
+/ordens-compra/4455/edit 1 6807 0 0
+/ordens-compra/NDQ3Ng==/imprimir 6 16770 0 0
+/orcamentos/MzMyMQ==/imprimir 2 19692 0 1
+/ordens-compra/NDQ0NQ==/imprimir 1 2873 0 0
+/ordens-compra/NDM3NQ==/imprimir 2 5618 0 1
+/ordens-compra/4495/edit 1 7030 0 0
+/ordens-compra/NDM5Mg==/imprimir 4 11443 0 0
+/ordens-compra/NDQ5OA==/imprimir 1 2934 0 1
+/ordens-compra/NDQ0MQ==/imprimir 2 5862 0 0
+/ordens-compra/NDQyOA==/imprimir 1 2832 0 0
+/orcamentos/3357/edit 1 7224 0 0
+/ordens-compra/NDQ5NA==/imprimir 1 2837 0 0
+/orcamentos/3320/edit 5 41033 1 0
+/ordens-compra/NDUwNA==/imprimir 1 3439 0 1
+/ordens-compra/NDUyNg==/imprimir 2 5594 0 0
+/ordens-compra/NDQzMg==/imprimir 1 2846 0 0
+/servicos/destroy 18 5438 0 0
+/orcamentos/MzM0Ng==/imprimir 1 9764 0 0
+/ordens-compra/4417/edit 1 6922 0 0
+/ordens-compra/NDQwNw==/imprimir 1 2869 0 1
+/ordens-compra/NDQyMQ==/imprimir 1 2726 0 0
+/ordens-compra/4427/edit 1 6884 0 0
+/ordens-compra/4498/edit 1 6949 0 0
+/ordens-compra/NDQyMw==/imprimir 2 5884 0 0
+/orcamentos/MzM1Ng==/imprimir 1 10152 0 1
+/ordens-compra/NDQ3NQ==/imprimir 1 2738 0 1
+/orcamentos/MzM4OQ==/imprimir 1 9788 0 1
+/ordens-compra/4385/edit 2 13752 0 0
+/orcamentos/MzMxMA==/imprimir 1 9530 0 0
+/ordens-compra/NDQxOQ==/imprimir 1 2728 0 1
+/ordens-compra/4262/edit 1 6955 0 0
+/ordens-compra/4476/edit 2 13716 0 0
+/ordens-compra/NDUwOA==/imprimir 1 2804 0 0
+/ordens-compra/NDM4NQ==/imprimir 2 5607 0 0
+/orcamentos/MzMwNw==/imprimir 1 9556 0 0
+/orcamentos/MzM3MA==/imprimir 2 19632 0 2
+/ordens-compra/NDQyNQ==/imprimir 2 5608 0 0
+/ordens-compra/NDUwMg==/imprimir 1 2793 0 0
+/orcamentos/MzM5MQ==/imprimir 3 16662 0 1
+/ordens-compra/NDM5OA==/imprimir 2 5512 0 1
+/orcamentos/MzMzMQ==/imprimir 4 40103 0 0
+/ordens-compra/NDQyOQ==/imprimir 3 8391 0 0
+/orcamentos/MzM0OA==/imprimir 2 19579 0 1
+/orcamentos/3362/edit 2 16170 0 0
+/orcamentos/3335/edit 1 7202 0 0
+/orcamentos/3330/edit 2 16138 0 0
+/orcamentos/MzM3Mw==/imprimir 1 9438 0 1
+/ordens-compra/4526/edit 1 6866 0 0
+/orcamentos/MzMyMw==/imprimir 2 18768 0 2
+/ordens-compra/NDI2Mg==/imprimir 3 8568 0 1
+/orcamentos/MzMyMg==/imprimir 2 19362 0 1
+/ordens-compra/NDQ2MA==/imprimir 1 2789 0 0
+/ordens-compra/4441/edit 1 7071 0 0
+/orcamentos/3378/edit 2 15393 0 0
+/ordens-compra/NDQ3Nw==/imprimir 1 2839 0 0
+/ordens-compra/4392/edit 1 6953 0 0
+/orcamentos/MzM2OA==/imprimir 4 38968 0 1
+/orcamentos/MzM2Mg==/imprimir 2 15844 0 0
+/orcamentos/MzM4Mg==/imprimir 2 20022 0 2
+/ordens-compra/NDQ4MQ==/imprimir 1 2814 0 1
+/ordens-compra/NDUxMw==/imprimir 3 8865 0 0
+/orcamentos/MzMyNQ==/imprimir 1 5638 0 0
+/ordens-compra/4437/edit 5 34407 0 0
+/orcamentos/3321/edit 1 7922 0 0
+/orcamentos/MzM1Nw==/imprimir 2 19412 0 0
+/orcamentos/3339/edit 1 7768 0 0
+/orcamentos/MzM2MA==/imprimir 1 9755 0 0
+/ordens-compra/NDQyNg==/imprimir 1 2907 0 1
+/ordens-compra/NDUyMQ==/imprimir 1 2805 0 0
+/password/reset 3 28348 0 0
+/ordens-compra/NDQ0OA==/imprimir 1 2747 0 1
+/orcamentos/MzMzNA==/imprimir 2 10970 0 1
+/orcamentos/3376/edit 11 87632 0 0
+/ordens-compra/NDQwNQ==/imprimir 1 2765 0 1
+/ordens-compra/NDM4Ng==/imprimir 1 2789 0 0
+/orcamentos/MjA0OA==/imprimir 1 10933 0 1
+/ordens-compra/4510/edit 1 6973 0 0
+/orcamentos/MzMzMg==/imprimir 3 30049 0 2
+/orcamentos/MzMwOQ==/imprimir 1 5472 0 1
+/ordens-compra/NDUyMg==/imprimir 1 2854 0 0
+/orcamentos/MzM2NA==/imprimir 1 5557 0 1
+/orcamentos/MzMxOQ==/imprimir 2 18840 0 1
+/ordens-compra/4416/edit 1 6864 0 0
+/ordens-compra/NDQ2OQ==/imprimir 4 11112 0 0
+/ordens-compra/NDM4OA==/imprimir 1 2925 0 0
+/ordens-compra/4396/edit 2 14746 0 0
+/ordens-compra/NDQ3OQ==/imprimir 2 5588 0 0
+/ordens-compra/4383/edit 2 13711 0 0
+/orcamentos/MzI0OQ==/imprimir 1 10132 0 1
+/ordens-compra/NDQxMg==/imprimir 1 2731 0 1
+/orcamentos/3348/edit 1 7261 0 0
+/ordens-compra/4393/edit 1 6881 0 0
+/ordens-compra/NDQ2Mw==/imprimir 1 2800 0 0
+/ordens-compra/NDQ4NA==/imprimir 1 2738 0 1
+/servicos/order 3 1379 0 0
+/ordens-compra/4448/edit 1 6846 0 0
+/ordens-compra/NDQ3Mg==/imprimir 1 2858 0 0
+/ordens-compra/NDM5Nw==/imprimir 2 5728 0 0
+/orcamentos/3331/edit 2 15761 0 0
+/ordens-compra/NDQ4Mg==/imprimir 1 2744 0 0
+/orcamentos/3365/edit 1 8090 0 0
+/orcamentos/MzMyNA==/imprimir 3 16465 0 1
+/orcamentos/MzM0OQ==/imprimir 1 9714 0 0
+/ordens-compra/NDUxNA==/imprimir 1 2818 0 1
+/orcamentos/3317/edit 1 7058 0 0
+/ordens-compra/NDM4Mg==/imprimir 2 5808 0 0
+/ordens-compra/NDQwNA==/imprimir 3 8346 0 0
+/fonts/fontawesome-webfont.eot 2 112012 0 0
+/orcamentos/3341/edit 1 7975 0 0
+/ordens-compra/4420/edit 6 41494 0 0
+/orcamentos/3343/edit 1 8050 0 0
+/orcamentos/MzM2Mw==/imprimir 1 9438 0 1
+/ordens-compra/4465/edit 1 6767 0 0
+/ordens-compra/NDM5NQ==/imprimir 2 5590 0 0
+/ordens-compra/NDQ1MQ==/imprimir 5 14279 0 0
+/orcamentos/MzMyNw==/imprimir 1 9694 0 0
+/ordens-compra/NDQ4Mw==/imprimir 2 6108 0 0
+/ordens-compra/4517/edit 1 6840 0 0
+/orcamentos/MzM0Mw==/imprimir 3 29992 0 0
+/ordens-compra/NDQwMg==/imprimir 4 11108 0 1
+/ordens-compra/NDM4Mw==/imprimir 2 5560 0 0
+/ordens-compra/NDQ4MA==/imprimir 3 8391 0 0
+/ordens-compra/NDQzNA==/imprimir 6 17596 0 1
+/orcamentos/MzI4NA==/imprimir 1 5861 0 0
+/orcamentos/MzM0MQ==/imprimir 2 20096 0 1
+/ordens-compra/NDQzOQ==/imprimir 1 2794 0 0
+/ordens-compra/NDQ1OQ==/imprimir 1 2865 0 0
+/ordens-compra/NDUwMw==/imprimir 1 2816 0 1
+/orcamentos/3375/edit 1 7599 1 0
+/servicos/update 23 10270 0 0
+/ordens-compra/NDQwMQ==/imprimir 2 5684 0 1
+/ordens-compra/NDQxOA==/imprimir 1 2720 0 0
+/ordens-compra/4493/edit 1 6860 0 0
+/orcamentos/3351/edit 3 23197 0 0
+/ordens-compra/NDUxNg==/imprimir 1 2816 0 0
+/servicos/edit 24 19134 0 0
+/orcamentos/MzM5MA==/imprimir 1 9471 0 1
+/ordens-compra/NDQ5Nw==/imprimir 1 2798 0 1
+/ordens-compra/NDQ3NA==/imprimir 1 2740 0 0
+/ordens-compra/4410/edit 1 6887 0 0
+/orcamentos/MzM0NA==/imprimir 1 9647 0 0
+/ordens-compra/NDUyOA==/imprimir 3 8443 0 0
+/ordens-compra/NDQ1OA==/imprimir 2 5674 0 0
+/ordens-compra/NDM4MA==/imprimir 2 5572 0 0
+/orcamentos/MzMwOA==/imprimir 4 40552 0 1
+/ordens-compra/4473/edit 1 6879 0 0
+/ordens-compra/NDUwMQ==/imprimir 2 5656 0 1
+/ordens-compra/4460/edit 1 6867 0 0
+/ordens-compra/NDQ1Mg==/imprimir 1 3368 0 1
+/orcamentos/MzM3Mg==/imprimir 2 19069 0 1
+/orcamentos/MzM3NQ==/imprimir 2 19884 0 0
+/produtos/order 4 2141 0 0
+/orcamentos/MzM1MA==/imprimir 1 9717 0 0
+/ordens-compra/4487/edit 1 6855 0 0
+/ordens-compra/NDUyNw==/imprimir 1 2789 0 0
+/orcamentos/3381/edit 5 39011 0 0
+/orcamentos/MzMyOA==/imprimir 1 9491 0 1
+/ordens-compra/NDM5MA==/imprimir 2 5612 0 0
+/ordens-compra/4426/edit 2 13754 0 0
+/orcamentos/MzI4Mw==/imprimir 1 5353 0 0
+/orcamentos/3249/edit 1 8234 0 0
+/ordens-compra/NDQxMw==/imprimir 1 2730 0 0
+/ordens-compra/4501/edit 1 7115 0 0
+/orcamentos/3324/edit 2 15070 0 0
+/ordens-compra/4398/edit 1 6819 0 0
+/orcamentos/MzM4NQ==/imprimir 1 9666 0 1
+/orcamentos/MzMxNA==/imprimir 3 31482 1 3
+/ordens-compra/4418/edit 2 13587 0 0
+/ordens-compra/4464/edit 1 6957 0 0
+/ordens-compra/NDQ0Nw==/imprimir 1 2860 0 0
+/orcamentos/3327/edit 1 7365 0 0
+/orcamentos/MzMzNg==/imprimir 3 28566 0 0
+/ordens-compra/NDUxOQ==/imprimir 2 7064 0 0
+/orcamentos/MzA5NQ==/imprimir 1 10030 0 0
+/ordens-compra/NDE2MA==/imprimir 1 4231 0 1
+/orcamentos/1894/edit 1 8349 0 0
+/ordens-compra/4378/edit 1 6964 0 0
+/orcamentos/MzM0Mg==/imprimir 2 19498 0 0
+/ordens-compra/NDQ4OQ==/imprimir 1 2814 0 0
+/ordens-compra/NDQxMA==/imprimir 2 5572 0 0
+/index.php/login 1 3806 1 1
+/orcamentos/MzM4Ng==/imprimir 1 10439 0 1
+/ordens-compra/NDM5Mw==/imprimir 2 5598 0 1
+/orcamentos/3332/edit 1 7849 0 0
+/orcamentos/MzM2OQ==/imprimir 1 9476 0 0
+/ordens-compra/NDQxNw==/imprimir 1 2807 0 0
+/orcamentos/MzM4OA==/imprimir 1 9372 0 0
+/ordens-compra/NDQwMA==/imprimir 1 2806 0 1
+/orcamentos/MzM1OQ==/imprimir 1 9737 0 0
+/ordens-compra/NDQ5Mw==/imprimir 1 2901 0 0
+/orcamentos/MzM4Nw==/imprimir 2 18940 0 1
+/ordens-compra/4463/edit 2 13582 0 0
+/ordens-compra/4506/edit 2 13521 0 0
+/ordens-compra/4483/edit 1 6869 0 0
+/ordens-compra/NDQ5MA==/imprimir 1 2953 0 0
+/ordens-compra/NDQ3Mw==/imprimir 3 8366 0 1
+/orcamentos/MzM3Ng==/imprimir 6 60092 0 0
+/ordens-compra/NDUwNQ==/imprimir 1 2754 0 1
+/orcamentos/MzE5OA==/imprimir 1 9448 0 1
+/ordens-compra/NDM5OQ==/imprimir 1 2793 0 1
+/orcamentos/MzMzOQ==/imprimir 2 19826 0 0
+/orcamentos/3380/edit 1 7760 0 0
+/ordens-compra/NDQxNg==/imprimir 1 2811 0 1
+/ordens-compra/NDUwOQ==/imprimir 1 2795 0 0
+/ordens-compra/NDM4Nw==/imprimir 1 2790 0 0
+/ordens-compra/NDQ2NA==/imprimir 2 5708 0 0
+/ordens-compra/NDQyNw==/imprimir 1 2855 0 0
+/orcamentos/3372/edit 3 22413 0 0
+/ordens-compra/NDQzMw==/imprimir 1 2771 0 0
+/ordens-compra/NDQzMA==/imprimir 2 5726 0 0
+/ordens-compra/4462/edit 1 6882 0 0
+/orcamentos/MzM2Ng==/imprimir 1 9705 0 0
+/orcamentos/MzM3MQ==/imprimir 1 9459 0 1
+/ordens-compra/NDQ3OA==/imprimir 1 2742 0 0
+/orcamentos/MzMxMQ==/imprimir 5 27202 0 3
+/ordens-compra/NDUxOA==/imprimir 2 5562 0 0
+/ordens-compra/NDQ3MQ==/imprimir 1 2783 0 0
+/orcamentos/3370/edit 1 7709 0 0
+/ordens-compra/NDUyMw==/imprimir 1 2844 0 0
+/orcamentos/MzMzNw==/imprimir 1 9434 0 0
+/ordens-compra/NDQ3MA==/imprimir 1 2998 0 0
+/ordens-compra/NDQ0NA==/imprimir 1 2852 0 0
+/ordens-compra/NDQ1NA==/imprimir 1 2862 0 1
+/ordens-compra/NDQ1Ng==/imprimir 1 2860 0 1
+/orcamentos/MzM1OA==/imprimir 1 5353 0 0
+/orcamentos/MzMxNQ==/imprimir 1 9609 0 0
+/ordens-compra/4438/edit 3 20622 0 0
+/ordens-compra/NDQ4Ng==/imprimir 2 5712 0 1
+/ordens-compra/NDUxNw==/imprimir 1 2793 0 1
+/orcamentos/MzMxNg==/imprimir 1 10204 0 0
+/ordens-compra/NDUyNQ==/imprimir 1 2796 0 0
+/ordens-compra/NDQzNQ==/imprimir 2 5841 0 0
+/ordens-compra/NDUxMA==/imprimir 1 3027 0 1
+/ordens-compra/NDQ5Ng==/imprimir 2 5608 0 0
+/ordens-compra/NDQ4OA==/imprimir 2 5648 0 0
+/ordens-compra/4488/edit 1 6860 0 0
+/ordens-compra/NDQ0MA==/imprimir 3 8373 0 0
+/orcamentos/MzM4MQ==/imprimir 5 50383 0 0
+/orcamentos/MzM4NA==/imprimir 1 9942 0 1
+/ordens-compra/4341/edit 1 6807 0 0
+/ordens-compra/NDUwNw==/imprimir 1 2771 0 1
+/orcamentos/MzM4MA==/imprimir 2 19532 0 0
+/ordens-compra/NDQ1Nw==/imprimir 1 2821 0 0
+/ordens-compra/4397/edit 1 6915 0 0
+/ordens-compra/NDQ1MA==/imprimir 1 2781 0 0
+/ordens-compra/NDQ2OA==/imprimir 2 5598 0 1
+/ordens-compra/NDQ0Mg==/imprimir 2 5716 0 0
+/ordens-compra/4435/edit 1 7012 0 0
+/ordens-compra/4402/edit 2 13743 0 0
+/ordens-compra/NDI2MQ==/imprimir 2 5586 0 0
+/ordens-compra/NDQ1NQ==/imprimir 1 2847 0 0
+/ordens-compra/4412/edit 2 13549 0 0
+/orcamentos/MzMwNQ==/imprimir 4 23399 0 1
+/orcamentos/MzMzNQ==/imprimir 2 18818 0 0
+/ordens-compra/NDM5MQ==/imprimir 2 5674 0 0
+/ordens-compra/NDQ2Mg==/imprimir 1 2788 0 1
+/ordens-compra/4452/edit 1 7033 0 0
+/ordens-compra/4382/edit 1 6920 0 0
+/ordens-compra/NDUyNA==/imprimir 1 2981 0 0
+/ordens-compra/NDQwNg==/imprimir 1 2736 0 0
+/ordens-compra/NDQ0Mw==/imprimir 1 2860 0 0
+/ordens-compra/NDQyMA==/imprimir 8 22748 0 3
+/orcamentos/MzMzMA==/imprimir 2 19915 0 1
+/orcamentos/MzM1NQ==/imprimir 3 28440 0 0
+/ordens-compra/NDQxNA==/imprimir 1 2737 0 1
+/orcamentos/MzM1Mw==/imprimir 2 10488 0 1
+/itens/destroy 6 2418 0 0
+/ordens-compra/4419/edit 1 6807 0 0
+/ordens-compra/NDQwMw==/imprimir 3 8373 0 0
+/ordens-compra/4468/edit 1 6795 0 0
+/ordens-compra/4505/edit 2 13694 0 0
+/ordens-compra/NDM5Ng==/imprimir 2 5744 0 0
+/orcamentos/3373/edit 1 7207 0 0
+/orcamentos/MzMzOA==/imprimir 1 9443 0 1
+/orcamentos/MzMxMw==/imprimir 2 20306 0 0
+/orcamentos/MzM4Mw==/imprimir 1 9822 0 0
+/orcamentos/MzMyOQ==/imprimir 1 10356 0 0
+/orcamentos/MzMyMA==/imprimir 6 58687 0 2
+/ordens-compra/NDQzNw==/imprimir 3 8386 0 0
+/ordens-compra/NDUyMA==/imprimir 1 4204 0 0
+/ordens-compra/NDQzOA==/imprimir 5 13940 0 0
+/ordens-compra/NDQ2Nw==/imprimir 3 8599 0 0
+/ordens-compra/4512/edit 2 13748 0 0
+/ordens-compra/NDUwMA==/imprimir 1 2795 0 0
+/orcamentos/3385/edit 1 7048 0 0
+/ordens-compra/4413/edit 1 6778 0 0
+/ordens-compra/NDQ1Mw==/imprimir 1 2778 0 1
+/ordens-compra/NDQ5MQ==/imprimir 1 2845 0 1
+/ordens-compra/NDQwOQ==/imprimir 1 2804 0 1
+/orcamentos/MzMyNg==/imprimir 4 39869 0 0
+/orcamentos/MzM1NA==/imprimir 1 9587 0 1
+/ordens-compra/NDQxNQ==/imprimir 1 2723 0 0
+/orcamentos/MzM3OA==/imprimir 3 29622 0 2
+/orcamentos/3305/edit 4 34467 0 0
+/orcamentos/MzM0Nw==/imprimir 3 28461 0 2
+/ordens-compra/NDUxNQ==/imprimir 2 5436 0 0
+/orcamentos/MzM3NA==/imprimir 1 9732 0 1
+/ordens-compra/NDQ5OQ==/imprimir 1 2790 0 0
+/ordens-compra/4499/edit 1 6888 0 0
+/ordens-compra/4394/edit 1 6907 0 0
+/orcamentos/MzM0MA==/imprimir 1 9501 0 0
+/ordens-compra/NDQ4Nw==/imprimir 1 2793 0 0
+/ordens-compra/4442/edit 3 20643 0 0
+/ordens-compra/NDQ0Ng==/imprimir 1 2802 0 1
+/orcamentos/3316/edit 1 8299 0 0
+/itens/order 2 688 0 0
+/orcamentos/MzM0NQ==/imprimir 1 9449 0 1
+/orcamentos/3314/edit 1 8531 0 0
+/orcamentos/MzM1MQ==/imprimir 3 28971 0 1
+/ordens-compra/NDQxMQ==/imprimir 2 5420 0 1
+/orcamentos/MzM1Mg==/imprimir 1 9820 0 1
+/ordens-compra/4469/edit 1 6865 0 0
+/ordens-compra/4403/edit 1 6852 0 0
+/ordens-compra/4514/edit 2 13538 0 0
+END_SIDER

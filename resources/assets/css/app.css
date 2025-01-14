@@ -1,0 +1,111 @@
+ul.alert {
+  padding-left: 40px !important; }
+
+form.remove-form {
+  display: inline-block; }
+  form.remove-form button {
+    margin: 0 !important; }
+
+.input-group-btn .fileinput-upload,
+.input-group-btn .fileinput-remove {
+  display: none !important; }
+
+.panel-body .row {
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+.btn-orcamentos, .btn-ordens {
+  margin-bottom: 20px;
+  margin-top: -40px; }
+
+th.center {
+  text-align: center; }
+
+div.table {
+  width: 100%;
+  display: block;
+  max-width: 100% !important;
+  margin-top: 20px; }
+  div.table .thead {
+    width: 100%;
+    display: block;
+    border-bottom: 2px solid #ddd;
+    float: left; }
+    div.table .thead .tr {
+      margin: 5px 0; }
+      div.table .thead .tr .th {
+        display: inline-block;
+        font-weight: bold;
+        text-transform: uppercase; }
+        div.table .thead .tr .th.center {
+          text-align: center; }
+        div.table .thead .tr .th.right {
+          text-align: right; }
+  div.table .tbody {
+    width: 100%;
+    display: block;
+    float: left; }
+    div.table .tbody .dd-placeholder {
+      padding: 5px;
+      float: left;
+      width: 100%; }
+  div.table .tr {
+    display: block;
+    width: 100%;
+    float: left; }
+    div.table .tr:hover .td {
+      background: #f8f8f8; }
+    div.table .tr .td {
+      display: inline-block;
+      padding: 10px 15px;
+      border: 0;
+      height: auto; }
+      div.table .tr .td.center {
+        text-align: center; }
+      div.table .tr .td.right {
+        text-align: right; }
+
+input.placa, textarea.placa, select.placa {
+  text-transform: uppercase; }
+
+input.error, textarea.error, select.error {
+  border-color: #E55957 !important; }
+
+.total {
+  padding: 0;
+  padding: 20px 0;
+  font-size: 20px;
+  border-top: 1px solid #ddd;
+  border-bottom: 2px solid #ddd; }
+  .total#totalOrcamento {
+    border-top: 0;
+    margin-bottom: 20px; }
+  .total .label {
+    color: #000;
+    font-weight: bold;
+    padding: 0; }
+
+table tr.detalhe {
+  display: none; }
+  table tr.detalhe > td {
+    background: #f2f2f2;
+    color: #666;
+    padding: 20px; }
+    table tr.detalhe > td table {
+      border: 1px solid #ddd; }
+      table tr.detalhe > td table td, table tr.detalhe > td table th {
+        padding: 5px;
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd; }
+      table tr.detalhe > td table.total {
+        margin-top: 20px; }
+
+.icon-logo a {
+  font-size: 14px; }
+
+.lancamento {
+  color: #e55957; }
+  .lancamento.lancado {
+    color: #5cc691; }
+
+/*# sourceMappingURL=app.css.map */

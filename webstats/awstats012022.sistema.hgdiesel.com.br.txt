@@ -1,0 +1,765 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.sistema.hgdiesel.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2697                
+POS_VISITOR 9329                
+POS_DAY 10741               
+POS_DOMAIN 3494                
+POS_LOGIN 3866                
+POS_ROBOT 4021                
+POS_WORMS 4450                
+POS_EMAILSENDER 4581                
+POS_EMAILRECEIVER 4724                
+POS_SESSION 11528               
+POS_SIDER 11739               
+POS_FILETYPES 4859                
+POS_DOWNLOADS 5108                
+POS_OS 5156                
+POS_BROWSER 5334                
+POS_SCREENSIZE 5920                
+POS_UNKNOWNREFERER 5994                
+POS_UNKNOWNREFERERBROWSER 6198                
+POS_ORIGIN 6311                
+POS_SEREFERRALS 6451                
+POS_PAGEREFS 6623                
+POS_SEARCHWORDS 6800                
+POS_KEYWORDS 6952                
+POS_MISC 2360                
+POS_ERRORS 7011                
+POS_CLUSTER 3722                
+POS_SIDER_404 7199                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201104326 10773 4056103 16467451693789
+FirstTime 20220101032550
+LastTime 20220131213625
+LastUpdate 20220202042956 10773 10771 0 1 0
+TotalVisits 175                 
+TotalUnique 34                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 21 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 152 152 547318 7 7 8907
+1 1 1 10179 6 6 4390
+2 4 5 292991 7 7 8295
+3 7 7 20770 7 7 24747
+4 0 0 0 13 18 556264
+5 1 1 10225 14 14 57616
+6 1 1 10162 14 21 960031
+7 2 2 20445 27 33 1026076
+8 0 0 0 13 13 132118
+9 4 4 163209 8 11 52028
+10 445 445 1947771 42 64 16920
+11 1059 1073 6089135 86 111 272933
+12 905 912 4114400 116 131 587437
+13 889 899 4745718 68 93 572096
+14 1077 1089 6525063 86 103 232801
+15 13 14 89951 6 8 25078
+16 814 815 3643804 85 97 184396
+17 1463 1479 7789538 170 193 255602
+18 900 906 4976747 82 103 331436
+19 928 935 4315143 78 92 253425
+20 526 536 3624455 54 66 695235
+21 109 110 470892 51 54 809692
+22 1 1 8818 1 1 416
+23 161 161 506539 7 11 389630
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+br 9343 9423 48927469
+us 52 53 308785
+sg 21 21 1848
+cz 20 20 1760
+lt 14 14 142808
+fi 3 4 292991
+de 3 4 42235
+il 2 3 27734
+gb 2 3 27885
+ca 1 2 149651
+nl 1 1 107
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 48 1855187 20220130043517 8
+bingbot/ 26 1875559 20220131110909 6
+oBot/ 6 876707 20220125201351 2
+MJ12bot/ 3 7420 20220101062934 1
+python 2 214 20220126014820 0
+DotBot/ 2 10211 20220122064017 1
+crawl 2 4327 20220125205202 1
+AhrefsBot/ 1 40 20220119090137 1
+unknown 1 55 20220111122751 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 19 1200130 0 0
+eot 4 224024 0 0
+png 45 226068 0 0
+env 2 214 0 0
+woff2 17 1222232 0 0
+php 7 692 0 0
+html 151 1135790 0 0
+js 22 2954710 0 0
+xml 49 4312 0 0
+Unknown 9232 42955101 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+ios_iphone 8 5
+linux 4 4
+win7 6747 6702
+macosx 3 2
+macosx9 3 3
+win8 5 5
+Unknown 20 20
+win8.1 1 1
+win10 2757 2720
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+chrome90.0.4430.85 1 1
+safari13.1.2 3 2
+chrome96.0.4664.110 1137 1123
+chrome88.0.4324.190 5 5
+chrome88.0.4240.193 41 41
+chrome41.0.2226.0 1 1
+chrome97.0.4692.99 2825 2817
+chrome81.0.4044.129 4 4
+chrome78.0.3904.108 21 21
+chrome83.0.4103.97 3 2
+msie11.0 1185 1179
+mozilla 6 6
+chrome89.0.4389.114 4 4
+chrome96.0.4664.93 3 2
+firefox94.0 3 2
+chrome97.0.4692.71 4275 4223
+chrome96.0.4664.45 1 1
+chrome35.0.1916.47 3 3
+chrome70.0.3538.102 1 1
+chrome84.0.4147.105 1 1
+msie9.0 1 1
+safari15.1 3 2
+Unknown 14 14
+safari 2 1
+chrome29.0.1547.2 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220125121629
+Go_http_package 20220125015403
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go_http_package 20220125015403
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 328 328
+From1 1 1
+From2 2 3
+From3 7 7
+From4 9124 9209
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 1 1
+www_google_com 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://35.209.239.241:80 7 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 3 49107
+400 52 326040
+401 5 65
+302 783 321036
+499 2 0
+405 11 241351
+500 20 1013860
+301 3 757
+404 119 875633
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 43
+/backend/.env 2 https://bit.ly/2TOp8jp
+/.well-known/pki-validation/alfacgiapi/perl.alfa 1 www.google.com
+/application/config/database.php~ 1 -
+/api/.env 2 https://bit.ly/2TOp8jp
+/alfacgiapi/perl.alfa 5 www.google.com
+/laravel/core/.env 2 https://bit.ly/2TOp8jp
+/ALFA_DATA/alfacgiapi/perl.alfa 5 www.google.com
+/login/sito/wp-includes/wlwmanifest.xml 3 -
+/laravel/.env 2 https://bit.ly/2TOp8jp
+/.well-known/acme-challenge/alfacgiapi/perl.alfa 1 www.google.com
+/login/website/wp-includes/wlwmanifest.xml 3 -
+/prod/.env 2 https://bit.ly/2TOp8jp
+/dup-installer/main.installer.php 1 -
+/wp-admin/css 3 binance.com
+/.well-known/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/kyc/.env 2 https://bit.ly/2TOp8jp
+/login/wordpress/wp-includes/wlwmanifest.xml 3 -
+/admin/.env 2 https://bit.ly/2TOp8jp
+/.env 21 -
+/app/.env 2 https://bit.ly/2TOp8jp
+/login/site/wp-includes/wlwmanifest.xml 3 -
+/login/cms/wp-includes/wlwmanifest.xml 3 -
+/.well-known/alfacgiapi/perl.alfa 1 www.google.com
+/login/2020/wp-includes/wlwmanifest.xml 3 -
+/login/2019/wp-includes/wlwmanifest.xml 3 -
+/ads.txt 1 -
+/beta/.env 2 https://bit.ly/2TOp8jp
+/config/.env 2 https://bit.ly/2TOp8jp
+/login/xmlrpc.php 3 -
+/login/wp-includes/wlwmanifest.xml 3 -
+/login/test/wp-includes/wlwmanifest.xml 3 -
+/login/wp/wp-includes/wlwmanifest.xml 3 -
+/login/web/wp-includes/wlwmanifest.xml 3 -
+/login/shop/wp-includes/wlwmanifest.xml 3 -
+/_ignition/execute-solution 2 https://bit.ly/2TOp8jp
+/login/news/wp-includes/wlwmanifest.xml 3 -
+/style.php 1 bing.com
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/login/wp1/wp-includes/wlwmanifest.xml 3 -
+/login/blog/wp-includes/wlwmanifest.xml 3 -
+/core/.env 2 https://bit.ly/2TOp8jp
+/login/wp2/wp-includes/wlwmanifest.xml 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 34
+186.209.30.3 4761 4794 23239781 20220131213625
+189.45.198.220 4581 4628 25683438 20220131205625
+128.199.160.254 21 21 1848 20220121205450
+195.133.18.29 20 20 1760 20220120212007
+143.198.57.156 19 19 1672 20220102165756
+23.229.113.138 5 5 26418 20220111122755
+159.203.115.159 5 5 428 20220101035645
+144.126.156.235 4 4 428 20220119232648
+92.118.160.41 4 4 40791 20220116054207
+147.135.127.241 4 4 60612 20220124211226
+167.248.133.114 2 2 8271 20220111121426
+167.94.138.114 2 2 8287 20220125121629
+128.90.59.231 2 3 27734 20220101123431
+92.118.160.37 2 2 20403 20220125015403
+150.143.151.243 2 3 27885 20220101123430
+207.46.13.10 1 1 131961 20220109093900
+179.183.213.118 1 1 4250 20220131120652
+35.215.121.179 1 1 4570 20220103160416
+45.129.18.45 1 1 0 20220113211246
+159.242.234.52 3 4 42235 20220101123431
+92.118.160.9 3 3 30519 20220122172014
+92.118.160.61 1 1 10221 20220108071505
+167.94.138.115 2 2 8280 20220110121639
+23.82.137.77 2 3 27597 20220101123431
+13.72.74.129 2 2 30261 20220123191529
+95.217.227.107 1 1 10308 20220107025901
+92.118.160.13 2 2 20473 20220116120320
+192.99.18.136 1 2 149651 20220131145412
+135.181.3.41 2 3 282683 20220105022016
+92.118.160.17 1 1 10227 20220123194108
+45.129.18.251 1 1 0 20220110212051
+92.118.160.57 1 1 10174 20220117153608
+45.129.18.155 1 1 0 20220107024201
+37.0.11.64 1 1 107 20220122194537
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20220101 16 20 146270 7
+20220102 21 21 22071 3
+20220103 419 423 1970535 7
+20220104 430 431 1650019 6
+20220105 377 384 3165488 8
+20220106 126 126 577310 6
+20220107 231 248 3580141 9
+20220108 3 3 31284 2
+20220109 2 2 142196 2
+20220110 241 246 2223918 10
+20220111 413 418 2156431 10
+20220112 228 235 2026405 4
+20220113 809 819 4235540 8
+20220114 171 172 689902 5
+20220116 2 2 20463 2
+20220117 258 262 1406828 5
+20220118 424 429 1805191 4
+20220119 618 622 2697860 9
+20220120 934 935 3446407 8
+20220121 1019 1019 3834835 7
+20220122 12 12 105839 4
+20220123 169 169 696659 3
+20220124 241 242 1129170 7
+20220125 361 366 2781711 9
+20220126 648 648 2824445 9
+20220127 601 601 2555077 6
+20220128 396 396 2031308 6
+20220131 292 297 1969970 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 44
+5mn-15mn 15
+15mn-30mn 9
+30s-2mn 17
+2mn-5mn 13
+0s-30s 52
+30mn-1h 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 357
+/_debugbar/open 3636 16167238 1 11
+/orcamentos/total 1328 177304 0 0
+/orcamentos 544 7347770 36 12
+/produtos/store 540 336328 0 0
+/ordens-compra 422 5364482 3 18
+/servicos/store 232 107976 0 0
+/produtos/create 211 175540 0 0
+/login 173 1089905 77 32
+/ 150 1135683 34 7
+/servicos/create 148 128537 1 0
+/blog/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/NjY2MA==/imprimir 1 7422 0 0
+/ordens-compra/ODcxMQ==/imprimir 1 7305 0 1
+/servicos/show 138 56428 0 0
+/orcamentos/NjYxNA==/imprimir 1 7160 0 1
+/orcamentos/NjYzMg==/imprimir 2 14885 0 0
+/ordens-compra/8633/edit 1 8500 0 0
+/orcamentos/NjY2Mg==/imprimir 2 15254 0 0
+/ordens-compra/ODY4NA==/imprimir 2 15756 0 0
+/site/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/NjU3NA==/imprimir 3 23218 0 2
+/produtos/update 147 98443 0 0
+/fonts/fontawesome-webfont.woff2 17 1222232 0 2
+/ordens-compra/ODY5Nw==/imprimir 2 15598 0 0
+/orcamentos/NjY1MQ==/imprimir 1 7274 0 0
+/orcamentos/NjU2Nw==/imprimir 1 6990 0 0
+/orcamentos/NjU4OQ==/imprimir 2 13992 0 0
+/ordens-compra/ODY2OQ==/imprimir 1 8052 0 0
+/orcamentos/NTc1OQ==/imprimir 1 7685 0 1
+/servicos/order 1 545 0 0
+/ordens-compra/ODY2Nw==/imprimir 1 7959 0 0
+/_debugbar/assets/javascript 22 2713558 1 3
+/xmlrpc.php 3 264 0 0
+/test/wp-includes/wlwmanifest.xml 3 264 0 0
+/ordens-compra/ODcwMA==/imprimir 1 6406 0 1
+/ordens-compra/8616/edit 1 8217 0 0
+/orcamentos/NjU5MQ==/imprimir 1 7856 0 0
+/orcamentos/NjU5Mg==/imprimir 2 16264 1 1
+/orcamentos/NjY3MA==/imprimir 2 15423 0 0
+/orcamentos/NjYwMg==/imprimir 1 6440 0 1
+/ordens-compra/ODY0NA==/imprimir 1 7938 0 1
+/orcamentos/NjY0NQ==/imprimir 2 14827 0 0
+/fonts/fontawesome-webfont.eot 4 224024 0 0
+/orcamentos/NjY0Nw==/imprimir 1 7070 0 1
+/shop/wp-includes/wlwmanifest.xml 3 264 0 0
+/ordens-compra/7428/edit 1 8654 0 0
+/ordens-compra/ODY3OA==/imprimir 1 6500 0 1
+/ordens-compra/ODY0MQ==/imprimir 1 7374 0 1
+/ordens-compra/ODcxMA==/imprimir 1 7255 0 0
+/ordens-compra/8645/edit 1 8797 0 0
+/orcamentos/NjY0OA==/imprimir 2 13485 0 0
+/wp-login.php 1 107 0 0
+/orcamentos/NjYwOQ==/imprimir 1 6062 0 0
+/ordens-compra/ODY0Mg==/imprimir 1 7911 0 0
+/ordens-compra/ODYzOQ==/imprimir 1 7945 0 0
+/ordens-compra/ODY2Mw==/imprimir 1 7420 0 0
+/orcamentos/6640/edit 1 9784 0 0
+/ordens-compra/ODY5Ng==/imprimir 1 8074 0 0
+/orcamentos/NTI2OA==/imprimir 1 7395 0 0
+/orcamentos/6568/edit 4 39140 0 0
+/ordens-compra/ODY0Ng==/imprimir 1 7569 0 0
+/orcamentos/6636/edit 3 30056 0 0
+/orcamentos/NjU2OA==/imprimir 3 22611 0 1
+/orcamentos/6672/edit 1 9339 0 0
+/orcamentos/6646/edit 1 9433 0 0
+/orcamentos/6635/edit 7 70523 0 0
+/orcamentos/NjU1Mw==/imprimir 1 6317 0 0
+/orcamentos/NjYxNQ==/imprimir 2 14613 0 1
+/servicos/edit 105 94810 0 0
+/ordens-compra/8702/edit 2 17159 0 0
+/ordens-compra/ODcwNA==/imprimir 1 7167 0 1
+/ordens-compra/8705/edit 1 8350 0 0
+/orcamentos/6604/edit 1 8820 0 0
+/orcamentos/NjY3Mw==/imprimir 1 7024 0 1
+/orcamentos/6566/edit 3 29956 1 0
+/orcamentos/5374/edit 1 9145 0 0
+/orcamentos/NjYwMw==/imprimir 2 12396 0 2
+/ordens-compra/ODYyNA==/imprimir 1 6598 0 0
+/orcamentos/NjYyMg==/imprimir 2 12834 0 0
+/ordens-compra/ODY1OQ==/imprimir 1 6422 0 0
+/orcamentos/NTU4OQ==/imprimir 1 6491 0 0
+/ordens-compra/ODY2NQ==/imprimir 2 15397 0 0
+/ordens-compra/ODYzMg==/imprimir 1 7573 0 0
+/ordens-compra/ODY0MA==/imprimir 2 15887 0 1
+/wordpress/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/NjYyNg==/imprimir 1 7886 0 0
+/orcamentos/6593/edit 2 19204 0 0
+/orcamentos/NjY1Mg==/imprimir 1 7302 0 1
+/itens/edit 51 38701 0 0
+/orcamentos/6601/edit 1 8513 0 0
+/ordens-compra/create 113 890572 3 2
+/orcamentos/NjU3OA==/imprimir 1 6275 0 1
+/produtos/show 138 83930 0 0
+/orcamentos/6610/edit 1 8085 0 0
+/ordens-compra/ODYzNw==/imprimir 1 7765 0 1
+/orcamentos/6597/edit 1 9402 0 0
+/ordens-compra/ODY1Mg==/imprimir 1 7760 0 1
+/orcamentos/NjY1MA==/imprimir 2 14528 0 0
+/orcamentos/NjY1OQ==/imprimir 3 21740 0 0
+/orcamentos/NjYyNQ==/imprimir 5 37066 0 1
+/ordens-compra/ODYzOA==/imprimir 1 8201 0 0
+/ordens-compra/ODY3Mg==/imprimir 1 7727 0 0
+/ordens-compra/ODY3NQ==/imprimir 2 15233 0 0
+/orcamentos/6643/edit 1 9110 0 0
+/orcamentos/NjU3Nw==/imprimir 1 7231 0 1
+/wordpress/wp-login.php 1 107 0 0
+/orcamentos/NjYyNw==/imprimir 6 47309 0 2
+/orcamentos/6581/edit 1 8329 0 0
+/orcamentos/6614/edit 1 9179 0 0
+/produtos/order 6 4107 0 0
+/orcamentos/NjQ0OA==/imprimir 1 8142 0 0
+/orcamentos/NjY2NA==/imprimir 2 15078 0 1
+/orcamentos/NTkxNg==/imprimir 2 14933 0 0
+/orcamentos/NjY3MQ==/imprimir 1 7453 0 0
+/ordens-compra/ODY5NQ==/imprimir 2 15610 0 0
+/orcamentos/6645/edit 3 28873 0 0
+/orcamentos/6653/edit 3 27863 0 0
+/orcamentos/NjYzOQ==/imprimir 1 7454 0 0
+/servicos/destroy 10 4284 0 0
+/itens/create 105 77946 0 0
+/ordens-compra/8642/edit 1 8633 0 0
+/ordens-compra/ODY3Mw==/imprimir 1 7746 0 0
+/orcamentos/6109/edit 1 9649 0 0
+/ordens-compra/ODYzMA==/imprimir 1 8093 0 1
+/orcamentos/6629/edit 1 9386 0 0
+/ordens-compra/ODU5Ng==/imprimir 1 6427 0 1
+/ordens-compra/ODYzMw==/imprimir 1 7661 0 0
+/orcamentos/6671/edit 1 9372 0 0
+/ordens-compra/8631/edit 1 8650 0 0
+/orcamentos/NjU4Ng==/imprimir 1 6951 0 1
+/orcamentos/create 137 1152464 7 0
+/orcamentos/NTc3OA==/imprimir 1 7723 0 0
+/orcamentos/NjY1Mw==/imprimir 4 28698 0 0
+/orcamentos/NjYzNw==/imprimir 1 7165 0 1
+/orcamentos/NjAzOQ==/imprimir 1 7733 0 0
+/orcamentos/NjU4MQ==/imprimir 3 20801 0 1
+/orcamentos/NjY0Mw==/imprimir 2 14410 0 0
+/orcamentos/NjU4Mg==/imprimir 3 24937 0 2
+/orcamentos/NjYxMw==/imprimir 1 7109 0 0
+/orcamentos/6576/edit 4 40497 0 0
+/ordens-compra/ODY5MQ==/imprimir 1 7263 0 0
+/ordens-compra/ODY4NQ==/imprimir 1 7821 0 0
+/orcamentos/NjYzOA==/imprimir 1 7845 0 1
+/ordens-compra/8665/edit 1 8655 0 0
+/orcamentos/NjY0OQ==/imprimir 2 15087 0 1
+/orcamentos/5268/edit 1 8676 0 0
+/wp-admin/css/ 1 107 1 1
+/ordens-compra/8656/edit 1 8208 0 0
+/orcamentos/6618/edit 3 28230 0 0
+/ordens-compra/ODcwMQ==/imprimir 1 7521 0 0
+/orcamentos/6598/edit 4 32906 0 0
+/itens/order 3 1359 0 0
+/ordens-compra/ODY1Mw==/imprimir 1 7264 0 1
+/orcamentos/NDU4NA==/imprimir 1 7811 0 0
+/cms/wp-includes/wlwmanifest.xml 3 264 0 0
+/2018/wp-includes/wlwmanifest.xml 1 88 0 0
+/orcamentos/6630/edit 1 9019 0 0
+/orcamentos/NjYwNg==/imprimir 4 30515 0 1
+/ordens-compra/ODY0Nw==/imprimir 1 7844 0 0
+/orcamentos/NTM3NA==/imprimir 1 7443 0 0
+/orcamentos/NjY0MA==/imprimir 1 7507 0 1
+/ordens-compra/8660/edit 2 16426 0 0
+/orcamentos/6651/edit 1 9306 0 0
+/orcamentos/6599/edit 3 28837 0 0
+/orcamentos/6574/edit 2 19795 0 0
+/orcamentos/NjYzMw==/imprimir 3 23257 0 0
+/orcamentos/NjU3OQ==/imprimir 1 6941 0 0
+/orcamentos/NjY2Ng==/imprimir 4 29228 1 1
+/orcamentos/NjU5OA==/imprimir 3 20753 0 1
+/orcamentos/6585/edit 1 9274 0 0
+/orcamentos/6666/edit 1 9468 1 0
+/ordens-compra/ODY4Nw==/imprimir 1 8105 0 0
+/ordens-compra/ODY2Mg==/imprimir 1 6500 0 0
+/orcamentos/6662/edit 1 9561 0 0
+/ordens-compra/ODYzNA==/imprimir 1 7799 0 0
+/ordens-compra/ODcwMw==/imprimir 3 22213 0 0
+/produtos/destroy 28 18522 0 0
+/orcamentos/NjYxOQ==/imprimir 1 7330 0 0
+/orcamentos/NjY2Nw==/imprimir 5 36939 0 0
+/orcamentos/NjYxNw==/imprimir 1 7928 0 1
+/orcamentos/NjY2OA==/imprimir 2 14451 0 0
+/orcamentos/enviados 4 35672 0 0
+/2020/wp-includes/wlwmanifest.xml 2 176 0 0
+/media/wp-includes/wlwmanifest.xml 1 88 0 0
+/orcamentos/NjY0Mg==/imprimir 1 7088 0 1
+/ordens-compra/ODY2MA==/imprimir 2 14693 0 0
+/orcamentos/6591/edit 2 19770 0 0
+/orcamentos/6575/edit 1 9692 0 0
+/orcamentos/6641/edit 3 22310 0 0
+/ordens-compra/8659/edit 2 15416 0 0
+/ordens-compra/8647/edit 1 8573 0 0
+/ordens-compra/8638/edit 1 8854 0 0
+/orcamentos/6461/edit 1 9350 0 0
+/orcamentos/NjQyMA==/imprimir 1 7728 0 0
+/ordens-compra/ODY1Nw==/imprimir 2 15492 0 0
+/orcamentos/NjU2NQ==/imprimir 1 6947 0 1
+/orcamentos/6625/edit 1 10055 1 0
+/orcamentos/6567/edit 1 8829 0 0
+/orcamentos/6600/edit 6 58930 0 0
+/orcamentos/6595/edit 2 19554 0 0
+/ordens-compra/ODcwNw==/imprimir 1 7264 0 1
+/orcamentos/6663/edit 1 9165 0 0
+/orcamentos/NjY1Nw==/imprimir 4 29507 0 0
+/orcamentos/NjU5Nw==/imprimir 2 14617 0 0
+/ordens-compra/8655/edit 2 15806 0 0
+/orcamentos/6602/edit 3 25594 0 0
+/2019/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/NjYxMA==/imprimir 3 18905 0 1
+/ordens-compra/8704/edit 1 8234 0 0
+/orcamentos/NjYwNQ==/imprimir 2 15603 0 1
+/orcamentos/NjY3Mg==/imprimir 1 7671 0 0
+/ordens-compra/ODY3MQ==/imprimir 1 8076 0 0
+/orcamentos/6573/edit 3 26083 1 0
+/ordens-compra/8708/edit 2 17259 0 0
+/orcamentos/NjYyNA==/imprimir 4 31575 0 1
+/orcamentos/6661/edit 3 27405 1 0
+/orcamentos/detail 1 1152 0 0
+/orcamentos/NjYyOQ==/imprimir 3 22130 0 2
+/orcamentos/6631/edit 4 41713 0 0
+/ordens-compra/ODY1NA==/imprimir 1 7846 0 0
+/ordens-compra/ODY4MA==/imprimir 2 15748 0 0
+/orcamentos/NDcyNQ==/imprimir 2 14185 0 0
+/orcamentos/6664/edit 1 9518 0 0
+/orcamentos/NjU3MA==/imprimir 2 15193 0 1
+/orcamentos/NjU3NQ==/imprimir 2 15078 0 0
+/orcamentos/6607/edit 3 24826 0 0
+/ordens-compra/ODcwOQ==/imprimir 1 7721 0 0
+/ordens-compra/ODYyOA==/imprimir 1 7750 0 0
+/ordens-compra/ODYxNg==/imprimir 1 7410 0 1
+/ordens-compra/ODY2Ng==/imprimir 1 7391 0 0
+/orcamentos/NjU4MA==/imprimir 3 22402 0 3
+/orcamentos/NjU5MA==/imprimir 2 14061 0 1
+/ordens-compra/ODYzMQ==/imprimir 2 15316 0 0
+/ordens-compra/ODY2OA==/imprimir 1 7885 0 0
+/orcamentos/NjU2Mw==/imprimir 8 48640 0 0
+/ordens-compra/ODYyOQ==/imprimir 2 15666 0 0
+/orcamentos/6633/edit 1 10925 0 0
+/orcamentos/NjY0Ng==/imprimir 1 7425 0 0
+/ordens-compra/ODY5Mg==/imprimir 1 7320 0 0
+/orcamentos/6621/edit 1 10418 1 0
+/orcamentos/NjYxMg==/imprimir 2 14556 0 0
+/ordens-compra/ODY5OA==/imprimir 1 7882 0 0
+/orcamentos/NjYwMQ==/imprimir 4 28231 0 0
+/wp-includes/wlwmanifest.xml 3 264 0 0
+/ordens-compra/ODY4Ng==/imprimir 1 7826 0 0
+/orcamentos/6667/edit 5 50092 0 0
+/ordens-compra/ODY5Mw==/imprimir 2 15487 0 0
+/orcamentos/NjY1Ng==/imprimir 1 7486 0 1
+/orcamentos/NjU4Nw==/imprimir 1 7681 0 1
+/orcamentos/6606/edit 1 9538 0 0
+/sito/wp-includes/wlwmanifest.xml 3 264 0 3
+/orcamentos/NjY2Mw==/imprimir 1 7234 0 0
+/ordens-compra/ODcwOA==/imprimir 3 23061 0 0
+/orcamentos/NjYzNQ==/imprimir 8 59198 0 0
+/ordens-compra/8668/edit 1 8680 0 0
+/ordens-compra/ODY5NA==/imprimir 1 8012 0 0
+/orcamentos/NjY2MQ==/imprimir 3 22020 0 0
+/orcamentos/NjU4NA==/imprimir 1 6958 0 1
+/orcamentos/NDcyNg==/imprimir 2 14288 0 0
+/orcamentos/NjU4OA==/imprimir 1 7541 0 0
+/orcamentos/NjYwNw==/imprimir 4 25327 0 1
+/ordens-compra/ODY3MA==/imprimir 1 7792 0 1
+/ordens-compra/ODY4OA==/imprimir 1 7809 0 0
+/orcamentos/NjU3Ng==/imprimir 3 23197 0 1
+/orcamentos/6624/edit 3 31356 0 0
+/ordens-compra/ODYyNw==/imprimir 1 7260 0 1
+/orcamentos/NjYyMQ==/imprimir 2 15849 0 0
+/orcamentos/NjUxMA==/imprimir 1 8443 0 1
+/orcamentos/6657/edit 2 18845 0 0
+/ordens-compra/ODY3Ng==/imprimir 1 6470 0 0
+/orcamentos/6623/edit 3 30840 0 0
+/orcamentos/NjUzMw==/imprimir 2 13163 0 0
+/orcamentos/6632/edit 3 28644 0 0
+/orcamentos/NjEwOQ==/imprimir 1 7633 0 0
+/orcamentos/NjY1OA==/imprimir 1 7403 0 0
+/orcamentos/NjYxOA==/imprimir 3 22516 0 1
+/orcamentos/6570/edit 3 28454 0 0
+/wp1/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/6589/edit 1 9471 0 0
+/orcamentos/NjYwOA==/imprimir 2 15208 0 0
+/ordens-compra/ODY5OQ==/imprimir 1 7792 0 1
+/orcamentos/NjU5Mw==/imprimir 2 13851 0 2
+/ordens-compra/ODY0NQ==/imprimir 2 15567 0 0
+/orcamentos/NTg0OQ==/imprimir 1 7494 0 0
+/ordens-compra/ODY5MA==/imprimir 3 23095 0 0
+/itens/store 138 55071 0 0
+/ordens-compra/8690/edit 1 8636 0 0
+/orcamentos/NjU3Mw==/imprimir 4 28419 0 1
+/ordens-compra/ODY0OQ==/imprimir 1 7953 0 0
+/orcamentos/6665/edit 1 9545 0 0
+/orcamentos/6622/edit 4 33179 0 0
+/ordens-compra/ODY0Mw==/imprimir 1 7841 0 0
+/ordens-compra/8648/edit 1 8442 1 0
+/orcamentos/NjU4NQ==/imprimir 2 13496 0 1
+/web/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/NjYyOA==/imprimir 3 24517 0 0
+/orcamentos/6533/edit 1 8248 0 0
+/orcamentos/NjU1MQ==/imprimir 1 6505 0 0
+/ordens-compra/ODY4Mg==/imprimir 1 7333 0 0
+/orcamentos/6627/edit 2 21156 1 0
+/ordens-compra/detail 9 3400 0 0
+/news/wp-includes/wlwmanifest.xml 3 264 0 0
+/ordens-compra/relatorio 3 26178 0 0
+/orcamentos/NjY1NQ==/imprimir 2 15491 0 1
+/orcamentos/NjQ2MQ==/imprimir 3 22206 0 0
+/ordens-compra/ODYzNQ==/imprimir 1 7807 0 1
+/itens/show 30 11565 0 0
+/orcamentos/NjU5NQ==/imprimir 2 15824 0 0
+/ordens-compra/8657/edit 1 8640 0 0
+/ordens-compra/8672/edit 1 8674 0 0
+/ordens-compra/ODcwNg==/imprimir 1 7454 0 0
+/ordens-compra/ODY0OA==/imprimir 1 7894 0 0
+/ordens-compra/ODcwMg==/imprimir 1 7686 0 0
+/blog/wp-login.php 1 107 0 0
+/orcamentos/NjM1Mg==/imprimir 1 6364 0 0
+/orcamentos/NjY2OQ==/imprimir 1 7414 0 1
+/orcamentos/NjYzNA==/imprimir 4 29337 0 0
+/ordens-compra/8636/edit 1 8408 0 0
+/orcamentos/NjY2NQ==/imprimir 1 7323 0 1
+/orcamentos/NjYwMA==/imprimir 6 45865 0 0
+/orcamentos/NjU5Ng==/imprimir 2 14234 0 0
+/website/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/6615/edit 2 20735 0 0
+/servicos/update 87 41926 0 0
+/orcamentos/NjU1Mg==/imprimir 3 22686 0 0
+/orcamentos/NjY1NA==/imprimir 3 22562 0 0
+/ordens-compra/8676/edit 1 8488 0 0
+/itens/update 48 21088 0 0
+/orcamentos/NjU2Ng==/imprimir 3 22204 0 0
+/orcamentos/NjYzMQ==/imprimir 2 15565 0 0
+/produtos/edit 119 100470 0 0
+/orcamentos/NjYyMw==/imprimir 4 30802 0 1
+/orcamentos/NjYyMA==/imprimir 2 14305 0 0
+/orcamentos/NjU2OQ==/imprimir 2 12724 0 1
+/orcamentos/NjU3Mg==/imprimir 2 15497 0 0
+/.env 2 214 1 0
+/orcamentos/6582/edit 2 21600 0 0
+/orcamentos/NjYzMA==/imprimir 1 6137 0 0
+/wp/wp-login.php 1 107 0 1
+/empresas 1 8143 0 0
+/wp/wp-includes/wlwmanifest.xml 3 264 0 0
+/orcamentos/6619/edit 3 28638 0 0
+/orcamentos/NjYzNg==/imprimir 2 15435 0 1
+/orcamentos/NjYxMQ==/imprimir 2 16598 0 0
+/orcamentos/6628/edit 1 11725 0 0
+/orcamentos/4443/edit 1 9626 0 0
+/ordens-compra/ODY4Mw==/imprimir 1 7325 0 0
+/orcamentos/NjYxNg==/imprimir 2 15153 0 1
+/orcamentos/NjU5OQ==/imprimir 4 30154 0 1
+/_debugbar/assets/stylesheets 20 2248088 0 0
+/orcamentos/NjIxMQ==/imprimir 3 20207 0 1
+/orcamentos/6620/edit 2 17420 0 0
+/orcamentos/NjY0NA==/imprimir 1 7076 0 0
+/orcamentos/NDQyNg==/imprimir 2 15513 0 1
+/orcamentos/NjY0MQ==/imprimir 2 13602 0 1
+/ordens-compra/8699/edit 1 8484 0 0
+/wp2/wp-includes/wlwmanifest.xml 3 264 0 0
+END_SIDER

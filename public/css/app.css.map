@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EAEQ,8BAA8B,EACjC;;AAGL;EACI,sBAAsB,EACzB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\nul {\n    &.alert {\n        padding-left: 40px !important;\n    }\n}\n\nform.remove-form {\n    display: inline-block;\n}\n"],"sourceRoot":"/source/"}

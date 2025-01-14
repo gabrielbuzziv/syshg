@@ -1,0 +1,707 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/hgdiesel/tmp/awstats/awstats.sistema.hgdiesel.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2693                
+POS_VISITOR 8042                
+POS_DAY 10086               
+POS_DOMAIN 3469                
+POS_LOGIN 3771                
+POS_ROBOT 3926                
+POS_WORMS 4356                
+POS_EMAILSENDER 4487                
+POS_EMAILRECEIVER 4630                
+POS_SESSION 10748               
+POS_SIDER 10960               
+POS_FILETYPES 4765                
+POS_DOWNLOADS 4984                
+POS_OS 5032                
+POS_BROWSER 5207                
+POS_SCREENSIZE 5709                
+POS_UNKNOWNREFERER 5783                
+POS_UNKNOWNREFERERBROWSER 5908                
+POS_ORIGIN 6028                
+POS_SEREFERRALS 6168                
+POS_PAGEREFS 6312                
+POS_SEARCHWORDS 6460                
+POS_KEYWORDS 6612                
+POS_MISC 2356                
+POS_ERRORS 6671                
+POS_CLUSTER 3627                
+POS_SIDER_404 6820                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201004653 1 0 10004062766930
+FirstTime 20181101061133
+LastTime 20181130131224
+LastUpdate 20181201020056 1 0 0 0 0
+TotalVisits 205                 
+TotalUnique 49                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 32 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 693 4 7 2185
+1 0 0 0 4 8 4861
+2 1 1 691 2 3 428
+3 655 661 1926730 165 188 89485
+4 727 737 2451683 189 243 210505
+5 680 687 4877059 150 205 317699
+6 521 533 2983699 103 148 247792
+7 473 479 2002731 94 139 757907
+8 5 5 32752 2 4 9850
+9 228 236 1144073 49 72 817257
+10 1049 1056 3537973 219 284 269781
+11 566 568 1656432 155 198 1038422
+12 994 1001 2805479 236 282 245161
+13 1196 1202 4401076 355 401 294390
+14 135 138 695376 34 50 49943
+15 3 3 19838 3 7 15842
+16 35 39 424628 16 23 148995
+17 53 53 71879 10 18 18967
+18 2 2 14704 5 7 8860
+19 24 27 303125 14 20 9469
+20 0 0 0 0 0 0
+21 0 0 0 2 3 1154
+22 1 1 685 4 4 1115
+23 3 5 179567 32 37 193280
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+br 7269 7346 28796327
+us 67 67 174262
+cn 11 17 540091
+ru 2 2 17310
+dk 2 2 1370
+fr 1 1 1513
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+no_user_agent 174 1056072 20181130110756 0
+bot[\s_+:,\.\;\/\\-] 30 1306923 20181124100248 9
+googlebot 21 364652 20181126094642 9
+unknown 10 240 20181128014223 10
+crawl 6 867224 20181121110917 2
+robot 4 696 20181124210212 3
+googlebot\-image 1 3873 20181108142241 0
+netcraft 1 10176 20181102055309 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 28 3400740 0 0
+html 251 568382 0 0
+eot 8 448048 0 0
+map 4 361006 0 0
+Unknown 7067 21340359 0 0
+png 24 92952 0 0
+woff2 22 1581712 0 0
+css 31 1737674 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linuxandroid 7 3
+ios_iphone 3 1
+winxp 788 779
+macosx 41 33
+winnt 705 694
+Unknown 2 2
+linux 3 3
+win7 5886 5837
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+chrome70.0.3538.102 3688 3661
+chrome60.0.3112.101 1 1
+Unknown 2 2
+chrome64.0.3282.140 13 10
+chrome62.0.3202.94 1 1
+chrome68.0.3416.0 1 1
+chrome45.0.2454.93 7 7
+chrome50.0.5584.382 3 1
+msie8.0 63 63
+chrome40.0.3685.973 3 1
+msie11.0 482 474
+chrome57.0.2327.599 1 1
+chrome70.0.3538.110 801 794
+chrome70.0.3538.77 1627 1606
+chrome40.0.1267.81 3 1
+chrome49.0.2623.112 725 716
+firefox58.0 1 1
+chrome49.0.2623.75 2 2
+chrome50.0.2661.102 1 1
+firefox63.0 10 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+python-requests/2.18.4 20181110235609
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.18.4 20181110235609
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 408 408
+From1 0 0
+From2 0 0
+From3 0 0
+From4 6944 7027
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 26 412203
+301 19 4677
+444 11 0
+302 1738 708424
+404 25 18175
+401 1 13
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/ushop 2 -
+/_debugbar/assets/stylesheets 1 http://sistema.hgdiesel.com.br/password/reset
+/shop 2 -
+/oscommerce 2 -
+/catalog 2 -
+/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php 1 http://sistema.hgdiesel.com.br/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php
+/store 2 -
+/site 1 -
+/modules/vtemslideshow/uploadimage.php 1 http://sistema.hgdiesel.com.br/modules/vtemslideshow/uploadimage.php
+/osc 2 -
+/wp 1 -
+/wp-content/themes/multimedia1/server/php 1 http://sistema.hgdiesel.com.br/wp-content/themes/multimedia1/server/php/
+/_debugbar/assets/javascript 1 http://sistema.hgdiesel.com.br/password/reset
+/blog 1 -
+/WP 1 -
+/wordpress 1 -
+/website 1 -
+/modules/homepageadvertise2/uploadimage.php 1 http://sistema.hgdiesel.com.br/modules/homepageadvertise2/uploadimage.php
+/wp-content/themes/nuance/style.css 1 http://sistema.hgdiesel.com.br/wp-content/themes/nuance/style.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+186.209.30.3 4479 4510 17098908 20181130131224
+187.85.170.13 2780 2823 11419705 20181130110004
+179.223.149.109 10 13 277714 20181115191550
+34.219.36.191 5 5 9059 20181128125430
+54.172.118.182 4 4 6715 20181129123205
+52.91.61.38 4 4 14098 20181130041916
+34.208.235.9 4 4 20354 20181129192607
+34.235.135.20 4 4 21237 20181119054113
+34.220.40.173 3 3 4539 20181122105635
+18.206.159.236 3 3 4539 20181116112109
+54.202.225.77 3 3 4539 20181128115142
+34.227.28.217 3 3 4539 20181120065515
+18.236.220.237 3 3 4761 20181130073809
+195.181.172.172 2 2 1370 20181110235609
+18.212.42.148 2 2 11104 20181113060534
+18.206.250.72 2 2 11000 20181129130010
+202.46.54.210 2 2 1377 20181129074403
+34.220.151.96 2 2 3773 20181130034306
+34.222.22.128 2 2 3026 20181128141437
+34.217.59.241 2 2 3026 20181121074724
+54.201.200.187 2 2 11432 20181130104929
+52.90.210.212 2 2 3026 20181120133222
+52.90.235.182 2 2 3026 20181114101809
+54.186.178.251 2 2 3026 20181115191410
+220.243.135.186 1 1 688 20181113233913
+18.237.59.114 1 1 1099 20181129060517
+202.46.56.193 1 1 691 20181127172547
+220.243.135.143 0 2 177509 
+66.249.83.76 1 1 685 20181109102116
+5.188.210.39 1 1 16623 20181101061133
+220.243.136.53 0 2 177509 
+34.207.164.234 1 1 1513 20181116064645
+13.57.187.120 1 1 0 20181115154236
+220.243.136.165 1 1 685 20181122054311
+62.210.157.10 1 1 1513 20181115130613
+220.243.136.221 0 2 177509 
+220.243.136.235 1 1 683 20181107052934
+202.46.52.141 1 1 693 20181108002522
+66.249.83.75 1 1 3717 20181106100658
+109.106.136.6 1 1 687 20181122173520
+34.222.2.179 1 1 1513 20181128061542
+220.243.136.14 1 1 684 20181115093955
+54.166.184.127 1 1 1513 20181107145141
+202.46.48.205 1 1 687 20181122171259
+34.228.240.168 1 1 1513 20181121122804
+52.23.208.132 1 1 1513 20181122050016
+54.212.225.119 1 1 9919 20181109131203
+202.46.52.106 1 1 685 20181125220616
+202.46.53.153 1 1 691 20181113024705
+23.94.148.9 1 1 685 20181107050844
+54.202.112.185 1 1 1513 20181128063634
+54.218.83.80 1 1 2260 20181122093824
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20181101 111 112 732982 9
+20181105 289 293 2554014 6
+20181106 186 196 4735592 10
+20181107 217 226 1210853 13
+20181108 149 149 198011 7
+20181109 323 323 469651 15
+20181110 2 2 1370 1
+20181112 456 456 1072547 11
+20181113 549 555 1808825 14
+20181114 346 350 895335 13
+20181115 25 33 734908 9
+20181116 225 229 736335 8
+20181119 680 680 2276326 8
+20181120 357 360 1091440 9
+20181121 768 778 3117445 8
+20181122 1057 1058 3165326 12
+20181123 370 376 945343 6
+20181125 1 1 685 1
+20181126 133 141 1085840 5
+20181127 166 168 544845 5
+20181128 260 263 771923 12
+20181129 333 337 947594 11
+20181130 349 349 433683 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 15
+30mn-1h 14
+0s-30s 91
+15mn-30mn 14
+1h+ 42
+2mn-5mn 13
+30s-2mn 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 331
+/ordens-compra 2560 10003126 0 24
+/orcamentos/total 1016 127599 0 2
+/produtos/store 424 250757 1 1
+/orcamentos 414 1955900 2 6
+/login 332 455145 172 72
+/ 251 568382 13 4
+/servicos/store 174 76487 1 1
+/produtos/edit 150 113281 0 0
+/itens/store 150 59775 3 3
+/produtos/create 146 106605 0 0
+/produtos/update 141 132289 0 0
+/_debugbar/open 138 1303005 0 0
+/itens/create 111 76339 0 0
+/servicos/create 111 94295 6 7
+/ordens-compra/create 98 258883 0 0
+/produtos/show 96 42682 0 0
+/servicos/show 96 38075 0 0
+/orcamentos/create 95 266435 0 1
+/itens/show 78 22532 0 1
+/itens/edit 44 31268 0 0
+/servicos/edit 44 36622 0 1
+/itens/update 41 15539 0 0
+/servicos/update 39 17217 0 0
+/produtos/destroy 25 14259 0 0
+/fonts/fontawesome-webfont.woff2 22 1581712 0 0
+/orcamentos/MzEzMA==/imprimir 1 5573 0 0
+/ordens-compra/4101/edit 1 2278 0 0
+/_debugbar/assets/javascript 9 3140235 0 0
+/orcamentos/MzExNg==/imprimir 1 9529 0 0
+/ordens-compra/4082/edit 2 13614 0 0
+/ordens-compra/4133/edit 2 4553 0 0
+/orcamentos/MzExMg==/imprimir 2 10971 0 0
+/orcamentos/MzEyMQ==/imprimir 1 9843 0 0
+/ordens-compra/NDE1Ng==/imprimir 2 5560 0 0
+/orcamentos/MzA4MA==/imprimir 1 11338 0 1
+/ordens-compra/MzgyMA==/imprimir 1 2781 0 0
+/orcamentos/MzA5NA==/imprimir 1 9657 0 1
+/users/6/edit 1 6532 0 0
+/ordens-compra/4147/edit 2 4465 0 0
+/orcamentos/3072/edit 3 8654 0 0
+/orcamentos/MzA4Ng==/imprimir 1 9661 0 0
+/orcamentos/3075/edit 2 5518 0 0
+/ordens-compra/NDExOA==/imprimir 1 2762 0 1
+/users 2 15151 0 0
+/fonts/fontawesome-webfont.eot 8 448048 0 0
+/ordens-compra/NDExMQ==/imprimir 2 5690 0 0
+/ordens-compra/NDE1Mw==/imprimir 1 2715 0 1
+/ordens-compra/NDA5OA==/imprimir 1 2781 0 0
+/ordens-compra/3707/edit 1 2258 0 0
+/orcamentos/MzEwNg==/imprimir 1 5143 0 0
+/ordens-compra/4116/edit 1 2268 0 0
+/orcamentos/MzA2Ng==/imprimir 5 27382 0 1
+/orcamentos/3124/edit 3 7770 0 0
+/ordens-compra/3885/edit 1 2397 0 0
+/ordens-compra/NDA4MQ==/imprimir 1 2795 0 0
+/ordens-compra/4132/edit 2 4564 0 0
+/ordens-compra/4095/edit 1 2273 0 0
+/ordens-compra/NDE0MQ==/imprimir 1 2729 0 1
+/orcamentos/MzE0MQ==/imprimir 3 29838 0 1
+/ordens-compra/NDE2MQ==/imprimir 1 2840 0 0
+/orcamentos/MzA3Nw==/imprimir 1 5559 0 1
+/ordens-compra/NDA4Mg==/imprimir 2 5479 0 1
+/ordens-compra/4108/edit 1 2255 0 0
+/orcamentos/3090/edit 1 2624 0 0
+/orcamentos/MzEyOA==/imprimir 1 9491 0 0
+/itens/order 1 308 0 0
+/orcamentos/MjczMQ==/imprimir 1 9428 0 0
+/orcamentos/MzA4Nw==/imprimir 1 10331 0 1
+/ordens-compra/4092/edit 1 2287 0 0
+/servicos/order 3 1438 0 0
+/ordens-compra/NDEzMQ==/imprimir 1 2740 0 0
+/ordens-compra/4084/edit 1 6756 0 0
+/ordens-compra/4083/edit 2 8882 0 0
+/orcamentos/3031/edit 1 2584 1 0
+/ordens-compra/NDA5Mw==/imprimir 3 8345 0 1
+/orcamentos/MzEwMQ==/imprimir 2 19522 0 0
+/ordens-compra/4087/edit 2 4550 0 0
+/ordens-compra/NDA2OQ==/imprimir 3 8350 0 1
+/ordens-compra/4135/edit 1 2276 0 0
+/ordens-compra/NDEzNw==/imprimir 2 5608 0 0
+/orcamentos/MzEyNQ==/imprimir 1 9693 0 0
+/orcamentos/MzA4MQ==/imprimir 3 28163 0 0
+/orcamentos/3118/edit 1 2801 0 0
+/orcamentos/MzA3MA==/imprimir 1 9561 0 1
+/ordens-compra/Mzg4NQ==/imprimir 1 2943 0 1
+/orcamentos/MzEzOA==/imprimir 3 28897 0 0
+/orcamentos/MzA2Nw==/imprimir 2 20156 0 1
+/ordens-compra/NDEyMQ==/imprimir 3 7962 0 0
+/ordens-compra/NDA1OA==/imprimir 1 2833 0 1
+/orcamentos/MzEzMg==/imprimir 1 9470 0 0
+/orcamentos/MzE0Mg==/imprimir 3 28383 1 1
+/ordens-compra/NDA5Ng==/imprimir 2 5572 0 0
+/ordens-compra/3841/edit 1 2253 0 0
+/ordens-compra/4076/edit 3 20826 0 0
+/ordens-compra/NDEzNg==/imprimir 1 2802 0 0
+/ordens-compra/NDA5Mg==/imprimir 4 14747 0 1
+/orcamentos/MzEyMA==/imprimir 1 9797 0 0
+/orcamentos/3067/edit 1 2674 0 0
+/ordens-compra/NDExMw==/imprimir 2 5728 0 1
+/orcamentos/3123/edit 3 8271 0 0
+/orcamentos/MzA1OA==/imprimir 1 9781 0 0
+/ordens-compra/NDEzNQ==/imprimir 1 2800 0 0
+/orcamentos/MzA4OQ==/imprimir 1 5428 0 1
+/ordens-compra/MzUzNA==/imprimir 1 2774 0 0
+/ordens-compra/NDEyMg==/imprimir 3 8199 0 0
+/ordens-compra/NDE2NA==/imprimir 1 2756 0 1
+/orcamentos/3107/edit 4 10860 0 0
+/ordens-compra/3901/edit 1 2255 0 0
+/orcamentos/3079/edit 1 2701 0 0
+/orcamentos/3082/edit 1 2678 0 0
+/orcamentos/MzA5Nw==/imprimir 2 19143 0 0
+/ordens-compra/NDA4OA==/imprimir 1 2786 0 0
+/ordens-compra/NDE2NQ==/imprimir 1 2758 0 0
+/ordens-compra/NDE0Nw==/imprimir 1 2905 0 0
+/ordens-compra/4155/edit 1 2245 0 0
+/ordens-compra/NDEzMg==/imprimir 2 5702 0 0
+/orcamentos/MzA3OA==/imprimir 4 39676 3 4
+/js/all.js.map 2 246368 0 0
+/ordens-compra/NDE2Ng==/imprimir 3 8182 0 1
+/itens/destroy 3 1114 0 0
+/orcamentos/MzEzNA==/imprimir 1 9429 0 0
+/orcamentos/MzExMA==/imprimir 3 31032 1 2
+/orcamentos/MzA1OQ==/imprimir 2 22614 0 0
+/orcamentos/MzEyMw==/imprimir 3 16734 0 0
+/orcamentos/MzA5Ng==/imprimir 1 5464 0 1
+/ordens-compra/NDExNA==/imprimir 1 2852 0 0
+/orcamentos/MzEzNg==/imprimir 1 9530 0 1
+/ordens-compra/4118/edit 1 2228 0 0
+/orcamentos/MzA5Mw==/imprimir 7 41676 0 1
+/ordens-compra/NDExMg==/imprimir 1 2821 0 0
+/ordens-compra/NDEwOQ==/imprimir 3 8829 0 0
+/ordens-compra/MzYzMA==/imprimir 1 2783 0 0
+/ordens-compra/4113/edit 1 2279 0 0
+/ordens-compra/4136/edit 1 2278 0 0
+/ordens-compra/NDEwNA==/imprimir 2 5602 0 1
+/orcamentos/MzEzNQ==/imprimir 4 39995 0 0
+/orcamentos/MzA3OQ==/imprimir 3 15635 0 1
+/orcamentos/MzA4NQ==/imprimir 2 19858 0 1
+/orcamentos/MzA5OQ==/imprimir 1 5165 0 1
+/orcamentos/3089/edit 1 2602 0 0
+/ordens-compra/4149/edit 1 2287 0 0
+/ordens-compra/NDEzOA==/imprimir 2 7326 0 0
+/ordens-compra/NDA5Nw==/imprimir 1 2842 0 1
+/orcamentos/3063/edit 2 15550 0 0
+/ordens-compra/4134/edit 2 4556 0 0
+/ordens-compra/4079/edit 1 2245 0 0
+/orcamentos/3081/edit 7 19123 0 0
+/orcamentos/MzE0NQ==/imprimir 1 9467 0 1
+/ordens-compra/NDE0Mg==/imprimir 1 2781 0 0
+/orcamentos/3100/edit 4 10891 0 0
+/orcamentos/MzEwNA==/imprimir 1 9487 0 1
+/orcamentos/MzA5MA==/imprimir 1 10932 0 0
+/ordens-compra/NDE0OA==/imprimir 9 25057 0 0
+/orcamentos/3102/edit 1 2608 0 0
+/orcamentos/3053/edit 1 7001 0 0
+/ordens-compra/Mzk4MA==/imprimir 1 3555 0 0
+/orcamentos/MzA5NQ==/imprimir 3 30046 0 1
+/orcamentos/3141/edit 3 7957 0 0
+/orcamentos/MzA4Mw==/imprimir 1 10117 0 0
+/ordens-compra/NDA3Ng==/imprimir 1 2861 0 0
+/ordens-compra/4121/edit 9 20290 0 0
+/ordens-compra/NDA4Mw==/imprimir 3 8047 0 0
+/orcamentos/3112/edit 1 2627 0 0
+/orcamentos/3138/edit 2 5284 0 0
+/orcamentos/MzE0Ng==/imprimir 1 9432 0 0
+/ordens-compra/NDExMA==/imprimir 1 2787 0 0
+/ordens-compra/NDA3OQ==/imprimir 1 2722 0 1
+/orcamentos/MzEwMg==/imprimir 2 19455 0 0
+/orcamentos/3080/edit 1 2639 0 0
+/orcamentos/3084/edit 2 5550 0 0
+/ordens-compra/Mzk1OA==/imprimir 1 2852 0 0
+/ordens-compra/NDA4MA==/imprimir 3 8580 0 1
+/ordens-compra/NDA4NQ==/imprimir 1 2837 0 0
+/ordens-compra/NDExNw==/imprimir 1 2784 0 0
+/ordens-compra/NDEzMA==/imprimir 1 2739 0 0
+/ordens-compra/4148/edit 1 2264 0 0
+/orcamentos/MzA5OA==/imprimir 1 5310 0 0
+/orcamentos/MzEzMw==/imprimir 1 9449 0 0
+/orcamentos/MzA3Mg==/imprimir 6 60515 0 1
+/orcamentos/email 2 987 0 0
+/orcamentos/MzA4NA==/imprimir 1 9956 0 1
+/ordens-compra/NDE0NA==/imprimir 1 2802 0 0
+/ordens-compra/3989/edit 1 2254 0 0
+/ordens-compra/NDEzNA==/imprimir 2 5700 0 0
+/css/all.css.map 2 114638 0 0
+/ordens-compra/3697/edit 1 2253 0 0
+/orcamentos/Mjk3Ng==/imprimir 1 10329 0 0
+/orcamentos/3097/edit 1 2709 0 0
+/orcamentos/MzEzOQ==/imprimir 1 9439 0 0
+/ordens-compra/4106/edit 1 2231 0 0
+/ordens-compra/NDE0Ng==/imprimir 1 2842 0 0
+/ordens-compra/NDA4Ng==/imprimir 1 2728 0 0
+/ordens-compra/4107/edit 1 2230 0 0
+/ordens-compra/Mzk4Mg==/imprimir 1 2848 0 0
+/ordens-compra/NDEwMQ==/imprimir 1 2850 0 0
+/ordens-compra/NDA3NQ==/imprimir 1 2938 0 0
+/orcamentos/MzAzMw==/imprimir 4 42340 0 2
+/orcamentos/3083/edit 2 5180 0 0
+/ordens-compra/NDA4Nw==/imprimir 1 2832 0 0
+/orcamentos/MzA5MQ==/imprimir 1 5462 0 0
+/ordens-compra/NDE1NA==/imprimir 1 2786 0 1
+/ordens-compra/3999/edit 1 2242 0 0
+/ordens-compra/NDE1MA==/imprimir 2 5624 0 0
+/orcamentos/MzEzNw==/imprimir 1 9453 0 1
+/orcamentos/3033/edit 2 5603 0 0
+/ordens-compra/NDE1OA==/imprimir 1 2791 0 0
+/ordens-compra/4103/edit 1 2253 0 0
+/ordens-compra/NDEzMw==/imprimir 1 2859 0 0
+/ordens-compra/NDA5NQ==/imprimir 1 2836 0 1
+/orcamentos/3059/edit 1 2599 0 0
+/orcamentos/3142/edit 1 2771 0 0
+/ordens-compra/4102/edit 1 2213 0 0
+/orcamentos/MzA4OA==/imprimir 2 10879 0 1
+/ordens-compra/NDEyNA==/imprimir 1 2955 0 0
+/ordens-compra/NDExNQ==/imprimir 1 2734 0 1
+/ordens-compra/NDE0OQ==/imprimir 1 2859 0 1
+/ordens-compra/NDE1Mg==/imprimir 1 2711 0 0
+/orcamentos/MzA5Mg==/imprimir 1 5152 0 0
+/orcamentos/MzEzMQ==/imprimir 4 40341 0 1
+/orcamentos/MzE0NA==/imprimir 1 11091 0 0
+/orcamentos/MzEyNA==/imprimir 5 49835 0 0
+/orcamentos/MzA2NA==/imprimir 5 26326 0 3
+/orcamentos/3101/edit 2 5269 0 0
+/orcamentos/MzA2Mw==/imprimir 2 11253 0 0
+/ordens-compra/NDEwNQ==/imprimir 1 2801 0 0
+/orcamentos/3048/edit 1 2620 0 0
+/orcamentos/3078/edit 6 16657 0 0
+/ordens-compra/4166/edit 2 4438 0 0
+/orcamentos/3091/edit 1 2599 0 0
+/ordens-compra/NDEwNg==/imprimir 1 2728 0 1
+/servicos/destroy 13 5730 0 0
+/orcamentos/3088/edit 1 2633 0 0
+/ordens-compra/4088/edit 1 2211 0 0
+/ordens-compra/4117/edit 1 2226 0 0
+/orcamentos/3093/edit 5 13809 0 0
+/ordens-compra/4069/edit 1 6744 0 0
+/ordens-compra/4099/edit 1 2280 0 0
+/ordens-compra/4080/edit 2 13626 0 0
+/ordens-compra/NDEyNQ==/imprimir 1 2747 0 0
+/ordens-compra/3918/edit 1 2243 0 0
+/orcamentos/MzEyNg==/imprimir 1 9539 0 1
+/ordens-compra/NDE1MQ==/imprimir 1 2833 0 1
+/orcamentos/MzA4Mg==/imprimir 2 19143 0 0
+/orcamentos/MzExOQ==/imprimir 1 5350 0 1
+/orcamentos/MzA3Mw==/imprimir 1 9449 0 0
+/ordens-compra/NDA5OQ==/imprimir 1 2926 0 0
+/ordens-compra/4093/edit 1 2276 0 0
+/ordens-compra/3619/edit 1 2238 0 0
+/orcamentos/detail 6 3856 0 0
+/orcamentos/MzEwNw==/imprimir 5 49252 0 1
+/orcamentos/3135/edit 3 8324 0 0
+/orcamentos/3057/edit 1 7195 0 0
+/orcamentos/3068/edit 1 2604 0 0
+/orcamentos/3095/edit 2 5246 0 0
+/ordens-compra/4140/edit 1 2239 0 0
+/ordens-compra/NDE0NQ==/imprimir 1 2792 0 0
+/ordens-compra/NDEwOA==/imprimir 1 2792 0 0
+/ordens-compra/3516/edit 1 2242 0 0
+/orcamentos/MzEwMw==/imprimir 1 9592 0 1
+/ordens-compra/NDEyOQ==/imprimir 1 2797 0 0
+/orcamentos/MzExMw==/imprimir 1 5148 0 0
+/orcamentos/3143/edit 5 13692 0 0
+/orcamentos/MzExNw==/imprimir 2 19872 0 0
+/orcamentos/MzE0Mw==/imprimir 2 18996 0 1
+/ordens-compra/NDEyNw==/imprimir 1 2839 0 0
+/orcamentos/MzE0MA==/imprimir 5 49675 0 2
+/ordens-compra/NDEwNw==/imprimir 4 11704 0 1
+/orcamentos/3119/edit 1 2621 0 0
+/orcamentos/MzA2OA==/imprimir 1 9744 0 0
+/orcamentos/MzA3NQ==/imprimir 3 16657 0 0
+/orcamentos/3122/edit 1 2605 0 0
+/ordens-compra/4146/edit 2 4514 0 0
+/orcamentos/MzExOA==/imprimir 3 31041 0 2
+/orcamentos/2948/edit 1 2715 0 0
+/ordens-compra/3990/edit 1 2260 0 0
+/ordens-compra/NDE2MA==/imprimir 2 8462 0 0
+/ordens-compra/NDE2Mg==/imprimir 1 2802 0 1
+/orcamentos/3104/edit 1 2620 0 0
+/ordens-compra/NDE0MA==/imprimir 1 2795 0 0
+/ordens-compra/NDEyMw==/imprimir 1 2773 0 0
+/orcamentos/3131/edit 5 13208 0 0
+/ordens-compra/4011/edit 1 2262 0 0
+/ordens-compra/NDE0Mw==/imprimir 1 2798 0 0
+/ordens-compra/NDE1OQ==/imprimir 1 2806 0 0
+/orcamentos/MzA3MQ==/imprimir 1 5172 0 1
+/ordens-compra/NDA4OQ==/imprimir 2 5616 0 0
+/orcamentos/MzEwOA==/imprimir 1 9433 0 0
+/orcamentos/MzEwMA==/imprimir 5 28843 0 0
+/produtos/order 6 5771 0 0
+/ordens-compra/4156/edit 1 2246 0 0
+/ordens-compra/4151/edit 1 2262 1 0
+/ordens-compra/NDA5NA==/imprimir 1 2836 0 0
+/orcamentos/MzExNQ==/imprimir 1 9590 0 1
+/ordens-compra/NDEzOQ==/imprimir 1 2916 0 0
+/ordens-compra/4098/edit 1 2270 0 0
+/orcamentos/3096/edit 2 5180 0 0
+/ordens-compra/NDA5MA==/imprimir 2 5608 0 0
+/ordens-compra/4164/edit 1 2276 0 0
+/ordens-compra/NDEwMA==/imprimir 1 2792 0 0
+/ordens-compra/relatorio 1 2754 0 0
+/orcamentos/MzAyOA==/imprimir 1 10000 0 0
+/ordens-compra/NDE1Nw==/imprimir 1 2842 0 1
+/ordens-compra/4159/edit 1 2278 0 0
+/ordens-compra/NDA4NA==/imprimir 3 8173 0 1
+/orcamentos/3140/edit 3 8241 0 0
+/orcamentos/3064/edit 1 2662 0 0
+/ordens-compra/NDE2Mw==/imprimir 1 2811 0 0
+/orcamentos/MzEyOQ==/imprimir 1 9694 0 1
+/ordens-compra/NDExNg==/imprimir 1 2814 0 0
+/orcamentos/MzEyNw==/imprimir 3 32844 0 0
+/ordens-compra/NDE1NQ==/imprimir 2 5459 0 0
+/orcamentos/MzA3Ng==/imprimir 1 9713 0 1
+/ordens-compra/4104/edit 1 2251 0 0
+/ordens-compra/NDExOQ==/imprimir 1 2726 0 0
+/orcamentos/3110/edit 1 2638 0 0
+/orcamentos/MzA2NQ==/imprimir 2 19410 0 1
+/ordens-compra/NDEyNg==/imprimir 1 2800 0 1
+/orcamentos/MzEyMg==/imprimir 4 41148 0 1
+/orcamentos/MzEwNQ==/imprimir 1 5380 0 0
+/ordens-compra/NDEyOA==/imprimir 2 5596 0 0
+/ordens-compra/NDEyMA==/imprimir 1 2717 0 0
+/orcamentos/MzExNA==/imprimir 1 5513 0 0
+/orcamentos/MzEwOQ==/imprimir 1 9442 0 1
+/orcamentos/MzA3NA==/imprimir 1 9832 0 1
+/ordens-compra/NDAwOA==/imprimir 1 2807 0 1
+/_debugbar/assets/stylesheets 2 219864 0 0
+/ordens-compra/NDEwMg==/imprimir 1 2826 0 1
+/ordens-compra/4048/edit 1 6781 0 0
+/orcamentos/MzExMQ==/imprimir 1 10146 0 1
+/ordens-compra/4111/edit 1 2263 0 0
+/ordens-compra/4075/edit 2 13813 0 0
+END_SIDER

@@ -1,0 +1,331 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201510 will be lost/reset.
+# Last config file used to build this data file was /home/hgdiesel/tmp/awstats/awstats.sistema.hgdiesel.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2693                
+POS_VISITOR 6285                
+POS_DAY 6614                
+POS_DOMAIN 3424                
+POS_LOGIN 3657                
+POS_ROBOT 3812                
+POS_WORMS 3982                
+POS_EMAILSENDER 4113                
+POS_EMAILRECEIVER 4256                
+POS_SESSION 7207                
+POS_SIDER 7415                
+POS_FILETYPES 4391                
+POS_DOWNLOADS 4595                
+POS_OS 4643                
+POS_BROWSER 4759                
+POS_SCREENSIZE 4973                
+POS_UNKNOWNREFERER 5047                
+POS_UNKNOWNREFERERBROWSER 5134                
+POS_ORIGIN 5216                
+POS_SEREFERRALS 5355                
+POS_PAGEREFS 5499                
+POS_SEARCHWORDS 5647                
+POS_KEYWORDS 5799                
+POS_MISC 2355                
+POS_ERRORS 5858                
+POS_CLUSTER 3513                
+POS_SIDER_404 5976                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151103050201 1 0 9750714969323
+FirstTime 20151001061940
+LastTime 20151030131628
+LastUpdate 20151103174506 1 0 0 0 0
+TotalVisits 90                  
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 988 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 34 168 746718 16 41 268014
+5 89 258 5634925 52 121 753220
+6 141 432 7578491 54 165 1091550
+7 100 126 8804654 47 162 1087745
+8 72 162 3893425 49 162 1071601
+9 26 54 211123 30 73 459810
+10 40 100 3412569 15 56 374326
+11 131 395 8119139 54 153 989941
+12 174 499 11922676 74 192 1194938
+13 127 233 6573707 67 152 947551
+14 104 278 10800724 26 114 768317
+15 46 89 4198847 24 64 406139
+16 8 8 522193 2 9 62108
+17 5 5 50237 2 6 39297
+18 26 28 2438133 6 24 163857
+19 18 110 1707932 4 21 147521
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+br 1141 2945 76615493
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 2 5900 20151005125800 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 129 2496499 0 0
+css 640 619518 0 0
+png 755 652888 0 0
+html 620 2498102 0 0
+js 394 2875389 0 0
+Unknown 392 67445362 0 0
+gif 15 27735 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+winxp 1975 599
+winnt 21 15
+win8.1 3 2
+win7 946 525
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome46.0.2490.80 472 159
+chrome43.0.2357.81 21 15
+chrome46.0.2490.71 1141 386
+msie9.0 1 1
+chrome45.0.2454.101 1256 544
+chrome43.0.2357.124 33 29
+firefox41.0 21 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 262 262
+From1 0 0
+From2 0 0
+From3 0 0
+From4 879 2683
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 257 2182045
+206 5 44971
+301 263 64435
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+186.209.30.3 899 2487 51495873 20151030131628
+187.85.170.13 219 426 23739587 20151026144723
+177.26.136.221 15 21 1276734 20151006194311
+177.101.102.130 4 5 45764 20151005120441
+177.147.229.137 2 3 30212 20151006130956
+189.73.90.181 2 3 27323 20151005122843
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20151001 12 40 134336 4
+20151002 42 158 2146311 4
+20151005 55 93 3523408 7
+20151006 117 273 7915578 7
+20151007 53 62 2675603 5
+20151008 16 30 380556 3
+20151009 46 92 2796141 3
+20151013 47 246 2330273 5
+20151014 68 94 4544387 6
+20151015 34 119 1623218 6
+20151016 72 151 5711074 1
+20151019 91 286 5300112 4
+20151020 151 569 12301565 6
+20151021 75 117 5244577 5
+20151022 21 24 1725247 2
+20151023 25 39 2236958 4
+20151026 56 260 3502754 4
+20151027 52 80 4809786 3
+20151028 38 121 1838274 3
+20151029 50 68 4750628 5
+20151030 20 23 1124707 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 25
+5mn-15mn 7
+0s-30s 24
+15mn-30mn 6
+2mn-5mn 7
+30s-2mn 4
+30mn-1h 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 57
+/login/ 526 1572060 81 54
+/formulario/orcamento/novo 105 2973323 3 3
+/lista/orcamento 103 45929136 0 1
+/ 94 926042 1 1
+/imprimir/orcamento.php 70 1300147 2 16
+/imprimir/ordem-compra.php 57 1177971 1 10
+/formulario/ordem-compra 53 913058 0 0
+/lista/ordem-compra 40 9761847 0 1
+/formulario/orcamento/editar/347 7 447139 1 0
+/formulario/orcamento/editar/364 7 283724 0 0
+/formulario/orcamento/editar/335 6 246629 0 0
+/formulario/orcamento/editar/368 5 193752 0 0
+/formulario/orcamento/editar/337 4 177409 0 1
+/formulario/orcamento/editar/367 4 151060 0 0
+/formulario/orcamento/editar/334 4 181296 0 0
+/formulario/orcamento/editar/348 3 132652 0 0
+/formulario/orcamento/editar/370 2 59547 0 0
+/painel 2 18749 0 0
+/formulario/orcamento/editar/330 2 71793 0 0
+/formulario/orcamento/editar/363 2 69189 0 0
+/formulario/orcamento/editar/366 2 87154 0 0
+/formulario/orcamento/editar/372 2 61258 0 0
+/formulario/orcamento/editar/352 2 65093 0 0
+/formulario/orcamento/editar/374 2 84235 0 0
+/formulario/orcamento/editar/362 2 55895 0 0
+/detalhar/ordem-compra/225 1 14301 0 0
+/detalhar/orcamento/359 1 56871 0 0
+/lista/ordem-compra/lancar/205 1 235658 0 0
+//imprimir/orcamento.php 1 18380 1 0
+/lista/ordem-compra/lancar/210 1 245975 0 0
+/lista/empresa 1 15490 0 0
+/formulario/empresa/editar/3 1 18225 0 0
+/enviar_email.php 1 1 0 0
+/lista/ordem-compra/lancar/213 1 244018 0 1
+/lista/ordem-compra/lancar/196 1 252974 0 0
+/lista/ordem-compra/lancar/203 1 232367 0 0
+/detalhar/orcamento/334 1 31243 0 0
+/lista/ordem-compra/lancar/212 1 244996 0 0
+/lista/ordem-compra/lancar/206 1 235916 0 0
+/detalhar/orcamento/374 1 27244 0 0
+/lista/ordem-compra/lancar/211 1 244867 0 0
+/lista/ordem-compra/lancar/200 1 230175 0 0
+/lista/ordem-compra/lancar/226 1 257394 0 1
+/log/orcamento 1 422785 0 1
+/lista/ordem-compra/lancar/220 1 252845 0 0
+/formulario/empresa/editar/2 2 36460 0 0
+/lista/ordem-compra/lancar/217 1 248183 0 0
+/lista/ordem-compra/lancar/204 1 235787 0 0
+/lista/ordem-compra/lancar/218 1 248312 0 0
+/formulario/orcamento/editar/361 2 57217 0 0
+/lista/ordem-compra/lancar/207 1 235529 0 0
+/formulario/empresa/editar/1 1 18234 0 0
+/lista/ordem-compra/lancar/223 1 253824 0 0
+/lista/ordem-compra/lancar/214 1 245125 0 0
+/lista/ordem-compra/lancar/219 1 252716 0 0
+/formulario/orcamento/editar/359 2 156647 0 0
+/lista/ordem-compra/lancar/201 1 230046 0 0
+END_SIDER
