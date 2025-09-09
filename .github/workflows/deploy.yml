@@ -1,0 +1,50 @@
+# .github/workflows/deploy.yml
+name: Deploy to VPS
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Deploy to VPS
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          script: |
+            cd ~/syshg
+            git pull origin main
+            
+            # Install PHP dependencies
+            composer install --no-dev --optimize-autoloader
+            
+            # Run Laravel post-deployment commands
+            php artisan config:cache
+            php artisan route:cache
+            php artisan view:cache
+            
+            # Run database migrations (if needed)
+            php artisan migrate --force
+            
+            # Set proper permissions for storage and cache
+            chmod -R 775 storage bootstrap/cache
+            
+            # Install Node dependencies and build assets
+            npm install
+            npm run production
+            
+            # Clear and optimize caches
+            php artisan optimize
+            
+            # Restart PHP-FPM if needed (adjust service name as needed)
+            # sudo systemctl reload php-fpm
+            
+            # If using queue workers, restart them
+            # php artisan queue:restart
