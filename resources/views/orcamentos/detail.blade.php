@@ -65,7 +65,7 @@
                     <td>{{ $servico['servico'] }}</td>
                     <td>{{ $servico['quantidade'] }}</td>
                     <td>R$ {{ number_format($servico['valor'], 2, ',', '.') }}</td>
-                    <td>R$ {{ number_format($servico['quantidade'] * $produto['valor'], 2, ',', '.') }}</td>
+                    <td>R$ {{ number_format($servico['quantidade'] * $servico['valor'], 2, ',', '.') }}</td>
                     <td>{{ $servico['discount'] }}%</td>
                     <td>R$ {{ number_format($servico['total'], 2, ',', '.') }}</td>
                 </tr>

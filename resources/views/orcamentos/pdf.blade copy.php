@@ -333,7 +333,7 @@
     </tr>
     <tr>
         <td class="validade">
-            <p>Validade do Orçamento: 10 dias após a Data do Orçamento.</p>
+            <p>Validade do Orçamento: 5 dias após a Data do Orçamento.</p>
         </td>
     </tr>
 </table>
